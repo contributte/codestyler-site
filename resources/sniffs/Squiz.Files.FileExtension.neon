@@ -1,0 +1,9 @@
+code: "Squiz.Files.FileExtension"
+standard: "Squiz"
+category: "Files"
+name: "FileExtension"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Files\\FileExtensionSniff"
+description: "Tests that classes and interfaces are not declared in .php files."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.Files.LowercasedFilename"
+standard: "Generic"
+category: "Files"
+name: "LowercasedFilename"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\LowercasedFilenameSniff"
+description: "Checks that all file names are lowercased."
+
+examples:
+	[]

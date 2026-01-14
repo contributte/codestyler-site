@@ -1,0 +1,11 @@
+code: "Generic.Metrics.CyclomaticComplexity"
+standard: "Generic"
+category: "Metrics"
+name: "CyclomaticComplexity"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Metrics\\CyclomaticComplexitySniff"
+description: "Checks the cyclomatic complexity (McCabe) for functions."
+
+properties:
+
+examples:
+	[]

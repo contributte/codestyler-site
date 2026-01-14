@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.RequireOneNamespaceInFile"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "RequireOneNamespaceInFile"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\RequireOneNamespaceInFileSniff"
+description: ""
+
+examples:
+	[]

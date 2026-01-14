@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.PHP.ReferenceSpacing"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "ReferenceSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\ReferenceSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.DisallowTrailingCommaInClosureUse"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "DisallowTrailingCommaInClosureUse"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\DisallowTrailingCommaInClosureUseSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

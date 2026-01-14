@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.DisallowEmptyFunction"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "DisallowEmptyFunction"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\DisallowEmptyFunctionSniff"
+description: ""
+
+examples:
+	[]

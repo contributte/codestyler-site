@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.SemicolonSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "SemicolonSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\SemicolonSpacingSniff"
+description: "Ensure there is no whitespace before a semicolon."
+
+examples:
+	[]

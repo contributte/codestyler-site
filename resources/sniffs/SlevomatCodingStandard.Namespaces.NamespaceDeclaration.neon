@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.NamespaceDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "NamespaceDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\NamespaceDeclarationSniff"
+description: ""
+
+examples:
+	[]

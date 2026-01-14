@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireNullSafeObjectOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireNullSafeObjectOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireNullSafeObjectOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

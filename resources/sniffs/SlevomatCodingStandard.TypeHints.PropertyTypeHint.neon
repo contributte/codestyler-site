@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.PropertyTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "PropertyTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\PropertyTypeHintSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

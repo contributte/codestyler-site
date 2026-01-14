@@ -1,0 +1,9 @@
+code: "Zend.NamingConventions.ValidVariableName"
+standard: "Zend"
+category: "NamingConventions"
+name: "ValidVariableName"
+class: "PHP_CodeSniffer\\Standards\\Zend\\Sniffs\\NamingConventions\\ValidVariableNameSniff"
+description: "Checks the naming of variables and member variables."
+
+examples:
+	[]

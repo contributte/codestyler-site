@@ -1,0 +1,9 @@
+code: "PSR2.Namespaces.UseDeclaration"
+standard: "PSR2"
+category: "Namespaces"
+name: "UseDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Namespaces\\UseDeclarationSniff"
+description: "Ensures USE blocks are declared correctly."
+
+examples:
+	[]

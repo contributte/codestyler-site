@@ -1,0 +1,9 @@
+code: "Generic.Files.OneTraitPerFile"
+standard: "Generic"
+category: "Files"
+name: "OneTraitPerFile"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\OneTraitPerFileSniff"
+description: "Checks that only one trait is declared per file."
+
+examples:
+	[]

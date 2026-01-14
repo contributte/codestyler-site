@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Complexity.Cognitive"
+standard: "SlevomatCodingStandard"
+category: "Complexity"
+name: "Cognitive"
+class: "SlevomatCodingStandard\\Sniffs\\Complexity\\CognitiveSniff"
+description: "Cognitive Complexity"
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,45 @@
+id: "control-structures"
+name: "Control Structures"
+description: "Shows PSR-2 control structure formatting"
+category: "Control"
+
+code: """
+	<?php declare(strict_types = 1);
+	
+	namespace App;
+	
+	class ControlExample
+	{
+	    public function process(int $value): string
+	    {
+	        if($value > 0){
+	            return 'positive';
+	        }elseif($value < 0){
+	            return 'negative';
+	        }else{
+	            return 'zero';
+	        }
+	    }
+	
+	    public function getStatus(int $code): string
+	    {
+	        switch($code){
+	            case 1:
+	                return 'active';
+	            case 2:
+	                return 'inactive';
+	            default:
+	                return 'unknown';
+	        }
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- PSR2.ControlStructures.ControlStructureSpacing
+	- PSR2.ControlStructures.ElseIfDeclaration
+	- PSR2.ControlStructures.SwitchDeclaration
+	- Squiz.ControlStructures.ControlSignature
+
+properties: {}

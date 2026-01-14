@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Attributes.RequireAttributeAfterDocComment"
+standard: "SlevomatCodingStandard"
+category: "Attributes"
+name: "RequireAttributeAfterDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Attributes\\RequireAttributeAfterDocCommentSniff"
+description: ""
+
+examples:
+	[]

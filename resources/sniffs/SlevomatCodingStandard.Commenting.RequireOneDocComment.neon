@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.RequireOneDocComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "RequireOneDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\RequireOneDocCommentSniff"
+description: ""
+
+examples:
+	[]

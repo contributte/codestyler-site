@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.UnionTypeHintFormat"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "UnionTypeHintFormat"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\UnionTypeHintFormatSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

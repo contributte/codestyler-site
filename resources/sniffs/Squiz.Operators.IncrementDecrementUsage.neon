@@ -1,0 +1,9 @@
+code: "Squiz.Operators.IncrementDecrementUsage"
+standard: "Squiz"
+category: "Operators"
+name: "IncrementDecrementUsage"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Operators\\IncrementDecrementUsageSniff"
+description: "Ensures that the ++ operators are used when possible."
+
+examples:
+	[]

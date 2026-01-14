@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.UnconditionalIfStatement"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "UnconditionalIfStatement"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\UnconditionalIfStatementSniff"
+description: "Detects unconditional if- and elseif-statements."
+
+examples:
+	[]

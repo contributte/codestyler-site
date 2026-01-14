@@ -1,0 +1,9 @@
+code: "Generic.Files.EndFileNewline"
+standard: "Generic"
+category: "Files"
+name: "EndFileNewline"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\EndFileNewlineSniff"
+description: "Ensures the file ends with a newline character."
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Whitespaces.DuplicateSpaces"
+standard: "SlevomatCodingStandard"
+category: "Whitespaces"
+name: "DuplicateSpaces"
+class: "SlevomatCodingStandard\\Sniffs\\Whitespaces\\DuplicateSpacesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PSR12.Functions.NullableTypeDeclaration"
+standard: "PSR12"
+category: "Functions"
+name: "NullableTypeDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Functions\\NullableTypeDeclarationSniff"
+description: "Verifies that nullable typehints are lacking superfluous whitespace, e.g. ?int"
+
+examples:
+	[]

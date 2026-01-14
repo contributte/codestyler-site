@@ -1,0 +1,40 @@
+id: "use-statements"
+name: "Use Statements"
+description: "Checks use statement ordering and unused imports"
+category: "Namespaces"
+
+code: """
+	<?php declare(strict_types = 1);
+	
+	namespace App\\Service;
+	
+	use DateTime;
+	use App\\Entity\\User;
+	use Exception;
+	use App\\Repository\\UserRepository;
+	use InvalidArgumentException;
+	use App\\Entity\\Order;
+	
+	class UserService
+	{
+	    private UserRepository $repository;
+	
+	    public function __construct(UserRepository $repository)
+	    {
+	        $this->repository = $repository;
+	    }
+	
+	    public function findUser(int $id): ?User
+	    {
+	        return $this->repository->find($id);
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- SlevomatCodingStandard.Namespaces.AlphabeticallySortedUses
+	- SlevomatCodingStandard.Namespaces.UnusedUses
+	- SlevomatCodingStandard.Namespaces.UseSpacing
+
+properties: {}

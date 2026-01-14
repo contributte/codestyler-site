@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.UselessAlias"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "UselessAlias"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\UselessAliasSniff"
+description: ""
+
+examples:
+	[]

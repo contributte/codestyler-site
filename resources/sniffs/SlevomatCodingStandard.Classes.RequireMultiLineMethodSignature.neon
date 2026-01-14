@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.RequireMultiLineMethodSignature"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "RequireMultiLineMethodSignature"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\RequireMultiLineMethodSignatureSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

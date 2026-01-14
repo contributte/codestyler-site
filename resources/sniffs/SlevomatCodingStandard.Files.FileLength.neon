@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Files.FileLength"
+standard: "SlevomatCodingStandard"
+category: "Files"
+name: "FileLength"
+class: "SlevomatCodingStandard\\Sniffs\\Files\\FileLengthSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PEAR.NamingConventions.ValidVariableName"
+standard: "PEAR"
+category: "NamingConventions"
+name: "ValidVariableName"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\NamingConventions\\ValidVariableNameSniff"
+description: "Checks the naming of member variables."
+
+examples:
+	[]

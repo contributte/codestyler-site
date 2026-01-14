@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.FullyQualifiedGlobalFunctions"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "FullyQualifiedGlobalFunctions"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\FullyQualifiedGlobalFunctionsSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

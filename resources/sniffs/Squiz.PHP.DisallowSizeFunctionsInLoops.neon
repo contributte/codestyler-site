@@ -1,0 +1,9 @@
+code: "Squiz.PHP.DisallowSizeFunctionsInLoops"
+standard: "Squiz"
+category: "PHP"
+name: "DisallowSizeFunctionsInLoops"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DisallowSizeFunctionsInLoopsSniff"
+description: "Bans the use of size-based functions in loop conditions."
+
+examples:
+	[]

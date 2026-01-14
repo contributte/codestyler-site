@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.HereNowdocIdentifierSpacing"
+standard: "Generic"
+category: "WhiteSpace"
+name: "HereNowdocIdentifierSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\HereNowdocIdentifierSpacingSniff"
+description: "Ensures heredoc/nowdoc identifiers do not have any whitespace before them."
+
+examples:
+	[]

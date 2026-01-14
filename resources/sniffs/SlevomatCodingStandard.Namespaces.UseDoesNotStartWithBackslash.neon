@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.UseDoesNotStartWithBackslash"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "UseDoesNotStartWithBackslash"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\UseDoesNotStartWithBackslashSniff"
+description: ""
+
+examples:
+	[]

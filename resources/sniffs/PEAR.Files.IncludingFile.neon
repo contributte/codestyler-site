@@ -1,0 +1,9 @@
+code: "PEAR.Files.IncludingFile"
+standard: "PEAR"
+category: "Files"
+name: "IncludingFile"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Files\\IncludingFileSniff"
+description: "Ensure include_once is used in conditional situations and require_once is used elsewhere."
+
+examples:
+	[]

@@ -1,0 +1,34 @@
+code: "SlevomatCodingStandard.Arrays.TrailingArrayComma"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "TrailingArrayComma"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\TrailingArrayCommaSniff"
+description: "Enables or disables trailing commas in multi-line arrays."
+
+properties:
+
+examples:
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = [
+				'one',
+				'two',
+				'three',
+			];
+			"""
+		output: "Example of good code with trailing comma"
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = [
+				'one',
+				'two',
+				'three'
+			];
+			"""
+		output: "Example showing missing trailing comma error"

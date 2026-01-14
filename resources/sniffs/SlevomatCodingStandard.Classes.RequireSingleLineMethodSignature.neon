@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.RequireSingleLineMethodSignature"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "RequireSingleLineMethodSignature"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\RequireSingleLineMethodSignatureSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

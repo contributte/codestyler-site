@@ -1,0 +1,9 @@
+code: "Generic.NamingConventions.TraitNameSuffix"
+standard: "Generic"
+category: "NamingConventions"
+name: "TraitNameSuffix"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\TraitNameSuffixSniff"
+description: "Checks that traits are suffixed by Trait."
+
+examples:
+	[]

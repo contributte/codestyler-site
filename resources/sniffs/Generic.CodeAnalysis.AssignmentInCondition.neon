@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.AssignmentInCondition"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "AssignmentInCondition"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\AssignmentInConditionSniff"
+description: "Detects variable assignments being made within conditions."
+
+examples:
+	[]

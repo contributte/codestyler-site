@@ -1,0 +1,11 @@
+code: "Generic.Formatting.SpaceAfterNot"
+standard: "Generic"
+category: "Formatting"
+name: "SpaceAfterNot"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Formatting\\SpaceAfterNotSniff"
+description: "Ensures there is a single space after a NOT operator."
+
+properties:
+
+examples:
+	[]

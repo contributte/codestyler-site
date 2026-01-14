@@ -1,0 +1,11 @@
+code: "PSR2.ControlStructures.ControlStructureSpacing"
+standard: "PSR2"
+category: "ControlStructures"
+name: "ControlStructureSpacing"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\ControlStructures\\ControlStructureSpacingSniff"
+description: "Checks that control structures have the correct spacing around brackets."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PSR12.Files.OpenTag"
+standard: "PSR12"
+category: "Files"
+name: "OpenTag"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Files\\OpenTagSniff"
+description: "Checks that the open tag is defined correctly."
+
+examples:
+	[]

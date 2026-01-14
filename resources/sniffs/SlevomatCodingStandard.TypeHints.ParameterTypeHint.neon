@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.ParameterTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "ParameterTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\ParameterTypeHintSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

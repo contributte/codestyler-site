@@ -1,0 +1,9 @@
+code: "Generic.PHP.CharacterBeforePHPOpeningTag"
+standard: "Generic"
+category: "PHP"
+name: "CharacterBeforePHPOpeningTag"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\CharacterBeforePHPOpeningTagSniff"
+description: "Checks that the opening PHP tag is the first content in a file."
+
+examples:
+	[]

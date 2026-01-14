@@ -1,0 +1,9 @@
+code: "PSR12.Keywords.ShortFormTypeKeywords"
+standard: "PSR12"
+category: "Keywords"
+name: "ShortFormTypeKeywords"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Keywords\\ShortFormTypeKeywordsSniff"
+description: "Verifies that the short form of type keywords is used (e.g., int, bool)."
+
+examples:
+	[]

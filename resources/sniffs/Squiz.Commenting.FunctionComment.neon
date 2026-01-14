@@ -1,0 +1,11 @@
+code: "Squiz.Commenting.FunctionComment"
+standard: "Squiz"
+category: "Commenting"
+name: "FunctionComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\FunctionCommentSniff"
+description: "Parses and verifies the doc comments for functions."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "PSR2.Classes.ClassDeclaration"
+standard: "PSR2"
+category: "Classes"
+name: "ClassDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Classes\\ClassDeclarationSniff"
+description: "Checks the declaration of the class and its inheritance is correct."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.GotoTargetSpacing"
+standard: "Generic"
+category: "WhiteSpace"
+name: "GotoTargetSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\GotoTargetSpacingSniff"
+description: "Ensures there is no space between the label for a goto target and the colon following it."
+
+examples:
+	[]

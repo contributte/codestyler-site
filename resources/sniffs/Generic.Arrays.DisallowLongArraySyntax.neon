@@ -1,0 +1,34 @@
+code: "Generic.Arrays.DisallowLongArraySyntax"
+standard: "Generic"
+category: "Arrays"
+name: "DisallowLongArraySyntax"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Arrays\\DisallowLongArraySyntaxSniff"
+description: "Bans the use of the PHP long array syntax."
+
+examples:
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = ['apple', 'banana', 'cherry'];
+
+			$users = [
+				['name' => 'John', 'age' => 30],
+				['name' => 'Jane', 'age' => 25],
+			];
+			"""
+		output: "Example of good code without errors"
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = array('apple', 'banana', 'cherry');
+
+			$users = array(
+				array('name' => 'John', 'age' => 30),
+				array('name' => 'Jane', 'age' => 25),
+			);
+			"""
+		output: "Example showing long array syntax error"

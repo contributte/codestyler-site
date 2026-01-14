@@ -1,0 +1,9 @@
+code: "Generic.PHP.RequireStrictTypes"
+standard: "Generic"
+category: "PHP"
+name: "RequireStrictTypes"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\RequireStrictTypesSniff"
+description: "Checks that the strict_types has been declared."
+
+examples:
+	[]

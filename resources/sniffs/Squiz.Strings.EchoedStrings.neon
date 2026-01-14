@@ -1,0 +1,9 @@
+code: "Squiz.Strings.EchoedStrings"
+standard: "Squiz"
+category: "Strings"
+name: "EchoedStrings"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Strings\\EchoedStringsSniff"
+description: 'Makes sure that any strings that are "echoed" are not enclosed in brackets.'
+
+examples:
+	[]

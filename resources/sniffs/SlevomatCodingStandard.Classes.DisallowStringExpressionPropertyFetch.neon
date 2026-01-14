@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.DisallowStringExpressionPropertyFetch"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "DisallowStringExpressionPropertyFetch"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\DisallowStringExpressionPropertyFetchSniff"
+description: ""
+
+examples:
+	[]

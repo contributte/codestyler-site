@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireSingleLineCondition"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireSingleLineCondition"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireSingleLineConditionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

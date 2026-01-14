@@ -1,0 +1,11 @@
+code: "PEAR.ControlStructures.ControlSignature"
+standard: "PEAR"
+category: "ControlStructures"
+name: "ControlSignature"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\ControlStructures\\ControlSignatureSniff"
+description: "Verifies that control statements conform to their coding standards."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PSR2.Namespaces.NamespaceDeclaration"
+standard: "PSR2"
+category: "Namespaces"
+name: "NamespaceDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Namespaces\\NamespaceDeclarationSniff"
+description: "Ensures namespaces are declared correctly."
+
+examples:
+	[]

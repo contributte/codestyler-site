@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.OptimizedFunctionsWithoutUnpacking"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "OptimizedFunctionsWithoutUnpacking"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\OptimizedFunctionsWithoutUnpackingSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.PHP.DisallowInlineIf"
+standard: "Squiz"
+category: "PHP"
+name: "DisallowInlineIf"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DisallowInlineIfSniff"
+description: "Stops inline IF statements from being used."
+
+examples:
+	[]

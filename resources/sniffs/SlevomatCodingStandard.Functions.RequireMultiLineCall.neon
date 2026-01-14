@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.RequireMultiLineCall"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "RequireMultiLineCall"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\RequireMultiLineCallSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

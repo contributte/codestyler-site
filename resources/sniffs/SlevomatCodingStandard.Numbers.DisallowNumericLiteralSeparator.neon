@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Numbers.DisallowNumericLiteralSeparator"
+standard: "SlevomatCodingStandard"
+category: "Numbers"
+name: "DisallowNumericLiteralSeparator"
+class: "SlevomatCodingStandard\\Sniffs\\Numbers\\DisallowNumericLiteralSeparatorSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.RequireSingleLineCall"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "RequireSingleLineCall"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\RequireSingleLineCallSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

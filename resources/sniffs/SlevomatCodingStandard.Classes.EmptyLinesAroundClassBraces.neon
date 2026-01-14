@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.EmptyLinesAroundClassBraces"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "EmptyLinesAroundClassBraces"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\EmptyLinesAroundClassBracesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

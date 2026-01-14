@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Files.TypeNameMatchesFileName"
+standard: "SlevomatCodingStandard"
+category: "Files"
+name: "TypeNameMatchesFileName"
+class: "SlevomatCodingStandard\\Sniffs\\Files\\TypeNameMatchesFileNameSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

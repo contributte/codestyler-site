@@ -1,0 +1,9 @@
+code: "Generic.PHP.Syntax"
+standard: "Generic"
+category: "PHP"
+name: "Syntax"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\SyntaxSniff"
+description: "Ensures PHP believes the syntax is clean."
+
+examples:
+	[]

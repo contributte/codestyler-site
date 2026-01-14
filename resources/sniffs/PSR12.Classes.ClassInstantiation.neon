@@ -1,0 +1,26 @@
+code: "PSR12.Classes.ClassInstantiation"
+standard: "PSR12"
+category: "Classes"
+name: "ClassInstantiation"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Classes\\ClassInstantiationSniff"
+description: "Verifies that classes are instantiated with parentheses."
+
+examples:
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$object = new Example();
+			$another = new AnotherClass($arg);
+			"""
+		output: "Example of good code without errors"
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$object = new Example;
+			$another = new AnotherClass ($arg);
+			"""
+		output: "Example showing class instantiation error"

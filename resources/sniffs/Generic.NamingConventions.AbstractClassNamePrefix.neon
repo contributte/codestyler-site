@@ -1,0 +1,9 @@
+code: "Generic.NamingConventions.AbstractClassNamePrefix"
+standard: "Generic"
+category: "NamingConventions"
+name: "AbstractClassNamePrefix"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\AbstractClassNamePrefixSniff"
+description: "Checks that abstract classes are prefixed by Abstract."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.Functions.FunctionDuplicateArgument"
+standard: "Squiz"
+category: "Functions"
+name: "FunctionDuplicateArgument"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\FunctionDuplicateArgumentSniff"
+description: "Checks that duplicate arguments are not used in function declarations."
+
+examples:
+	[]

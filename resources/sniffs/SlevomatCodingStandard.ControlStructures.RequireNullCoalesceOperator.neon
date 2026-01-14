@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireNullCoalesceOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireNullCoalesceOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireNullCoalesceOperatorSniff"
+description: ""
+
+examples:
+	[]

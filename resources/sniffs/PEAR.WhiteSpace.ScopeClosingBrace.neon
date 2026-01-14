@@ -1,0 +1,11 @@
+code: "PEAR.WhiteSpace.ScopeClosingBrace"
+standard: "PEAR"
+category: "WhiteSpace"
+name: "ScopeClosingBrace"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\WhiteSpace\\ScopeClosingBraceSniff"
+description: "Checks that the closing braces of scopes are aligned correctly."
+
+properties:
+
+examples:
+	[]

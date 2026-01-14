@@ -1,0 +1,9 @@
+code: "Generic.PHP.LowerCaseType"
+standard: "Generic"
+category: "PHP"
+name: "LowerCaseType"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\LowerCaseTypeSniff"
+description: "Checks that all PHP types are lowercase."
+
+examples:
+	[]

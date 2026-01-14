@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Exceptions.DeadCatch"
+standard: "SlevomatCodingStandard"
+category: "Exceptions"
+name: "DeadCatch"
+class: "SlevomatCodingStandard\\Sniffs\\Exceptions\\DeadCatchSniff"
+description: ""
+
+examples:
+	[]

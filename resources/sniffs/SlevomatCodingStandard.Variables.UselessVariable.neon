@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Variables.UselessVariable"
+standard: "SlevomatCodingStandard"
+category: "Variables"
+name: "UselessVariable"
+class: "SlevomatCodingStandard\\Sniffs\\Variables\\UselessVariableSniff"
+description: ""
+
+examples:
+	[]

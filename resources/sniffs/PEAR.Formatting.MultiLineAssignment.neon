@@ -1,0 +1,11 @@
+code: "PEAR.Formatting.MultiLineAssignment"
+standard: "PEAR"
+category: "Formatting"
+name: "MultiLineAssignment"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Formatting\\MultiLineAssignmentSniff"
+description: "If an assignment goes over two lines, ensure the equal sign is indented."
+
+properties:
+
+examples:
+	[]

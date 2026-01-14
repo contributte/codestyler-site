@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.NullTypeHintOnLastPosition"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "NullTypeHintOnLastPosition"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\NullTypeHintOnLastPositionSniff"
+description: ""
+
+examples:
+	[]

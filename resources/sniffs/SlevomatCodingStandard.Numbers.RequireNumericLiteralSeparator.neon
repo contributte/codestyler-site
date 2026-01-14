@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Numbers.RequireNumericLiteralSeparator"
+standard: "SlevomatCodingStandard"
+category: "Numbers"
+name: "RequireNumericLiteralSeparator"
+class: "SlevomatCodingStandard\\Sniffs\\Numbers\\RequireNumericLiteralSeparatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PSR12.Properties.ConstantVisibility"
+standard: "PSR12"
+category: "Properties"
+name: "ConstantVisibility"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Properties\\ConstantVisibilitySniff"
+description: "Verifies that all class constants have their visibility set."
+
+examples:
+	[]

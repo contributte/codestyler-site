@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.RequireAbstractOrFinal"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "RequireAbstractOrFinal"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\RequireAbstractOrFinalSniff"
+description: ""
+
+examples:
+	[]

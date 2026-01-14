@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.RequireNowdoc"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "RequireNowdoc"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\RequireNowdocSniff"
+description: ""
+
+examples:
+	[]

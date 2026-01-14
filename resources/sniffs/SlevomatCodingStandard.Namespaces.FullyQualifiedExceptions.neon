@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.FullyQualifiedExceptions"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "FullyQualifiedExceptions"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\FullyQualifiedExceptionsSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.PHP.ClosingPHPTag"
+standard: "Generic"
+category: "PHP"
+name: "ClosingPHPTag"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\ClosingPHPTagSniff"
+description: "Checks that open PHP tags are paired with closing tags."
+
+examples:
+	[]

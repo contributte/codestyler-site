@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.EnumCaseSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "EnumCaseSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\EnumCaseSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

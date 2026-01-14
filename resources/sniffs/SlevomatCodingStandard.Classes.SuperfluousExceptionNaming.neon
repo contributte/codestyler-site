@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.SuperfluousExceptionNaming"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "SuperfluousExceptionNaming"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\SuperfluousExceptionNamingSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Attributes.AttributeAndTargetSpacing"
+standard: "SlevomatCodingStandard"
+category: "Attributes"
+name: "AttributeAndTargetSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Attributes\\AttributeAndTargetSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

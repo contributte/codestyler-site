@@ -1,0 +1,9 @@
+code: "Generic.NamingConventions.InterfaceNameSuffix"
+standard: "Generic"
+category: "NamingConventions"
+name: "InterfaceNameSuffix"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\InterfaceNameSuffixSniff"
+description: "Checks that interfaces are suffixed by Interface."
+
+examples:
+	[]

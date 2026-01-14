@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.DisallowSpaceIndent"
+standard: "Generic"
+category: "WhiteSpace"
+name: "DisallowSpaceIndent"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\DisallowSpaceIndentSniff"
+description: "Throws errors if spaces are used for indentation other than precision indentation."
+
+examples:
+	[]

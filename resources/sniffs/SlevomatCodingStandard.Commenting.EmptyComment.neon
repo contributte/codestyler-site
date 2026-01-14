@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.EmptyComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "EmptyComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\EmptyCommentSniff"
+description: ""
+
+examples:
+	[]

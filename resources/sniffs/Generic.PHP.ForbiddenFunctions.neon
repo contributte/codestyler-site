@@ -1,0 +1,11 @@
+code: "Generic.PHP.ForbiddenFunctions"
+standard: "Generic"
+category: "PHP"
+name: "ForbiddenFunctions"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\ForbiddenFunctionsSniff"
+description: "Discourages the use of alias functions."
+
+properties:
+
+examples:
+	[]

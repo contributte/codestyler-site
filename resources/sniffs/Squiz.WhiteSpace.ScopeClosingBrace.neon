@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.ScopeClosingBrace"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "ScopeClosingBrace"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\ScopeClosingBraceSniff"
+description: "Checks that the closing braces of scopes are aligned correctly."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PSR12.Files.ImportStatement"
+standard: "PSR12"
+category: "Files"
+name: "ImportStatement"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Files\\ImportStatementSniff"
+description: "Verifies that import statements are defined correctly."
+
+examples:
+	[]

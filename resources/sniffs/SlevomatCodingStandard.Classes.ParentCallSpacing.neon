@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ParentCallSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ParentCallSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ParentCallSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

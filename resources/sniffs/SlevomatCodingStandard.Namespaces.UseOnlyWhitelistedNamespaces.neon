@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.UseOnlyWhitelistedNamespaces"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "UseOnlyWhitelistedNamespaces"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\UseOnlyWhitelistedNamespacesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

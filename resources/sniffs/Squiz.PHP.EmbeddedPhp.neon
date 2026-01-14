@@ -1,0 +1,9 @@
+code: "Squiz.PHP.EmbeddedPhp"
+standard: "Squiz"
+category: "PHP"
+name: "EmbeddedPhp"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\EmbeddedPhpSniff"
+description: "Checks the indentation of embedded PHP code segments."
+
+examples:
+	[]

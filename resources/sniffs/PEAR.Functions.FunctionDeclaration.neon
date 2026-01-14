@@ -1,0 +1,11 @@
+code: "PEAR.Functions.FunctionDeclaration"
+standard: "PEAR"
+category: "Functions"
+name: "FunctionDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Functions\\FunctionDeclarationSniff"
+description: "Ensure single and multi-line function declarations are defined correctly."
+
+properties:
+
+examples:
+	[]

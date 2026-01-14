@@ -1,0 +1,9 @@
+code: "PSR12.Files.FileHeader"
+standard: "PSR12"
+category: "Files"
+name: "FileHeader"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Files\\FileHeaderSniff"
+description: "Checks the format of the file header."
+
+examples:
+	[]

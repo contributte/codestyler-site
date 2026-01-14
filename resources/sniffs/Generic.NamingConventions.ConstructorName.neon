@@ -1,0 +1,9 @@
+code: "Generic.NamingConventions.ConstructorName"
+standard: "Generic"
+category: "NamingConventions"
+name: "ConstructorName"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\ConstructorNameSniff"
+description: "Bans PHP 4 style constructors."
+
+examples:
+	[]

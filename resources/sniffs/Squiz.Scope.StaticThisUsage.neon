@@ -1,0 +1,9 @@
+code: "Squiz.Scope.StaticThisUsage"
+standard: "Squiz"
+category: "Scope"
+name: "StaticThisUsage"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Scope\\StaticThisUsageSniff"
+description: "Checks for usage of $this in static methods, which will cause runtime errors."
+
+examples:
+	[]

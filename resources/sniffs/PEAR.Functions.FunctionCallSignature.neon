@@ -1,0 +1,11 @@
+code: "PEAR.Functions.FunctionCallSignature"
+standard: "PEAR"
+category: "Functions"
+name: "FunctionCallSignature"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Functions\\FunctionCallSignatureSniff"
+description: "Ensures function calls are formatted correctly."
+
+properties:
+
+examples:
+	[]

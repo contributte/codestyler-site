@@ -1,0 +1,11 @@
+code: "Generic.Formatting.SpaceAfterCast"
+standard: "Generic"
+category: "Formatting"
+name: "SpaceAfterCast"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Formatting\\SpaceAfterCastSniff"
+description: "Ensures there is a single space after cast tokens."
+
+properties:
+
+examples:
+	[]

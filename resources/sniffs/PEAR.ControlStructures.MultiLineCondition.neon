@@ -1,0 +1,11 @@
+code: "PEAR.ControlStructures.MultiLineCondition"
+standard: "PEAR"
+category: "ControlStructures"
+name: "MultiLineCondition"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\ControlStructures\\MultiLineConditionSniff"
+description: "Ensure multi-line IF conditions are defined correctly."
+
+properties:
+
+examples:
+	[]

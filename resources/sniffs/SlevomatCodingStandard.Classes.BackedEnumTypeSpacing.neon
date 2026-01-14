@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.BackedEnumTypeSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "BackedEnumTypeSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\BackedEnumTypeSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

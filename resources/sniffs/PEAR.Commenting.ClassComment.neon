@@ -1,0 +1,9 @@
+code: "PEAR.Commenting.ClassComment"
+standard: "PEAR"
+category: "Commenting"
+name: "ClassComment"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Commenting\\ClassCommentSniff"
+description: "Parses and verifies the doc comments for classes."
+
+examples:
+	[]

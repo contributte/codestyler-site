@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ModernClassNameReference"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ModernClassNameReference"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ModernClassNameReferenceSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "Squiz.WhiteSpace.MemberVarSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "MemberVarSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\MemberVarSpacingSniff"
+description: "Verifies that class members are spaced correctly."
+
+properties:
+
+examples:
+	[]

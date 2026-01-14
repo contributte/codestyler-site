@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.FullyQualifiedClassNameInAnnotation"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "FullyQualifiedClassNameInAnnotation"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\FullyQualifiedClassNameInAnnotationSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

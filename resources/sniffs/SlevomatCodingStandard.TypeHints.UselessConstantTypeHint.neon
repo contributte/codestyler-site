@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.UselessConstantTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "UselessConstantTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\UselessConstantTypeHintSniff"
+description: ""
+
+examples:
+	[]

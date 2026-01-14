@@ -1,0 +1,9 @@
+code: "Generic.Files.OneInterfacePerFile"
+standard: "Generic"
+category: "Files"
+name: "OneInterfacePerFile"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\OneInterfacePerFileSniff"
+description: "Checks that only one interface is declared per file."
+
+examples:
+	[]

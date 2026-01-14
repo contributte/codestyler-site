@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.LanguageConstructSpacing"
+standard: "Generic"
+category: "WhiteSpace"
+name: "LanguageConstructSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\LanguageConstructSpacingSniff"
+description: "Ensures all language constructs contain a single space between themselves and their content."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.Files.OneObjectStructurePerFile"
+standard: "Generic"
+category: "Files"
+name: "OneObjectStructurePerFile"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\OneObjectStructurePerFileSniff"
+description: "Checks that only one object structure is declared per file."
+
+examples:
+	[]

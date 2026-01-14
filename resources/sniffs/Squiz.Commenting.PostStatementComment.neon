@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.PostStatementComment"
+standard: "Squiz"
+category: "Commenting"
+name: "PostStatementComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\PostStatementCommentSniff"
+description: "Checks to ensure that there are no comments after statements."
+
+examples:
+	[]

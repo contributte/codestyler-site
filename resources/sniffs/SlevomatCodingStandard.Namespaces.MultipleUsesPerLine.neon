@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.MultipleUsesPerLine"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "MultipleUsesPerLine"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\MultipleUsesPerLineSniff"
+description: ""
+
+examples:
+	[]

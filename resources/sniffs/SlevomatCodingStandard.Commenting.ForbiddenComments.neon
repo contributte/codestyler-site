@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Commenting.ForbiddenComments"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "ForbiddenComments"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\ForbiddenCommentsSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ForbiddenPublicProperty"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ForbiddenPublicProperty"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ForbiddenPublicPropertySniff"
+description: ""
+
+properties:
+
+examples:
+	[]

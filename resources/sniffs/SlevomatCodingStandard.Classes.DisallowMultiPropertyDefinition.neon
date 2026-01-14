@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.DisallowMultiPropertyDefinition"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "DisallowMultiPropertyDefinition"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\DisallowMultiPropertyDefinitionSniff"
+description: ""
+
+examples:
+	[]

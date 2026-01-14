@@ -1,0 +1,11 @@
+code: "Generic.PHP.DeprecatedFunctions"
+standard: "Generic"
+category: "PHP"
+name: "DeprecatedFunctions"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\DeprecatedFunctionsSniff"
+description: "Discourages the use of deprecated PHP functions."
+
+properties:
+
+examples:
+	[]

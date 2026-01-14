@@ -1,0 +1,9 @@
+code: "PSR1.Files.SideEffects"
+standard: "PSR1"
+category: "Files"
+name: "SideEffects"
+class: "PHP_CodeSniffer\\Standards\\PSR1\\Sniffs\\Files\\SideEffectsSniff"
+description: "Ensures a file declares new symbols and causes no other side effects, or executes logic with side effects, but not both."
+
+examples:
+	[]

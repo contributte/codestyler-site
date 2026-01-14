@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.ShortList"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "ShortList"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\ShortListSniff"
+description: ""
+
+examples:
+	[]

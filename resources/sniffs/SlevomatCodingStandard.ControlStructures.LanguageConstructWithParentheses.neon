@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.LanguageConstructWithParentheses"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "LanguageConstructWithParentheses"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\LanguageConstructWithParenthesesSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "Generic.ControlStructures.InlineControlStructure"
+standard: "Generic"
+category: "ControlStructures"
+name: "InlineControlStructure"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\ControlStructures\\InlineControlStructureSniff"
+description: "Verifies that inline control statements are not present."
+
+properties:
+
+examples:
+	[]

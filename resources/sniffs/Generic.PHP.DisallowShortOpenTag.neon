@@ -1,0 +1,9 @@
+code: "Generic.PHP.DisallowShortOpenTag"
+standard: "Generic"
+category: "PHP"
+name: "DisallowShortOpenTag"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\DisallowShortOpenTagSniff"
+description: "Makes sure that shorthand PHP open tags are not used."
+
+examples:
+	[]

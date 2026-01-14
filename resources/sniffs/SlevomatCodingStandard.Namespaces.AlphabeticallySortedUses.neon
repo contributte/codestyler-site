@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.AlphabeticallySortedUses"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "AlphabeticallySortedUses"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\AlphabeticallySortedUsesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

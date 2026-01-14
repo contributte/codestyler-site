@@ -1,0 +1,9 @@
+code: "Generic.Files.OneClassPerFile"
+standard: "Generic"
+category: "Files"
+name: "OneClassPerFile"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\OneClassPerFileSniff"
+description: "Checks that only one class is declared per file."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.Classes.ClassFileName"
+standard: "Squiz"
+category: "Classes"
+name: "ClassFileName"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Classes\\ClassFileNameSniff"
+description: "Tests that the file name and the name of the class contained within the file match."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.PHP.NonExecutableCode"
+standard: "Squiz"
+category: "PHP"
+name: "NonExecutableCode"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\NonExecutableCodeSniff"
+description: "Warns about code that can never been executed."
+
+examples:
+	[]

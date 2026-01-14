@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.BlockControlStructureSpacing"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "BlockControlStructureSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\BlockControlStructureSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

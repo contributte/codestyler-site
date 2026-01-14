@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.NewWithParentheses"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "NewWithParentheses"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\NewWithParenthesesSniff"
+description: ""
+
+examples:
+	[]

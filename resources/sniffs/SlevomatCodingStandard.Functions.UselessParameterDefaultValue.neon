@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.UselessParameterDefaultValue"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "UselessParameterDefaultValue"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\UselessParameterDefaultValueSniff"
+description: ""
+
+examples:
+	[]

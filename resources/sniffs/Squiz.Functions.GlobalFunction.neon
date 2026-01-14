@@ -1,0 +1,9 @@
+code: "Squiz.Functions.GlobalFunction"
+standard: "Squiz"
+category: "Functions"
+name: "GlobalFunction"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\GlobalFunctionSniff"
+description: "Tests for functions outside of classes."
+
+examples:
+	[]

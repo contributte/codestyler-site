@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.MethodSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "MethodSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\MethodSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

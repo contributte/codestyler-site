@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.DisallowOneLinePropertyDocComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "DisallowOneLinePropertyDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\DisallowOneLinePropertyDocCommentSniff"
+description: ""
+
+examples:
+	[]

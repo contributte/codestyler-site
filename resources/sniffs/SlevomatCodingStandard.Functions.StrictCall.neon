@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.StrictCall"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "StrictCall"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\StrictCallSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.Files.InlineHTML"
+standard: "Generic"
+category: "Files"
+name: "InlineHTML"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\InlineHTMLSniff"
+description: "Ensures the whole file is PHP only, with no whitespace or inline HTML."
+
+examples:
+	[]

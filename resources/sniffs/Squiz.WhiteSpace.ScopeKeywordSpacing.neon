@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.ScopeKeywordSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "ScopeKeywordSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\ScopeKeywordSpacingSniff"
+description: "Ensure there is a single space after scope keywords."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Arrays.DisallowPartiallyKeyed"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "DisallowPartiallyKeyed"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\DisallowPartiallyKeyedSniff"
+description: ""
+
+examples:
+	[]

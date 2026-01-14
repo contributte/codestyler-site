@@ -1,0 +1,9 @@
+code: "PSR12.Files.DeclareStatement"
+standard: "PSR12"
+category: "Files"
+name: "DeclareStatement"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Files\\DeclareStatementSniff"
+description: "Checks the format of the declare statements."
+
+examples:
+	[]

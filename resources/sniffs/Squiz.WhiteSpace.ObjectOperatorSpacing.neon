@@ -1,0 +1,11 @@
+code: "Squiz.WhiteSpace.ObjectOperatorSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "ObjectOperatorSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\ObjectOperatorSpacingSniff"
+description: "Ensure there is no whitespace before/after an object operator."
+
+properties:
+
+examples:
+	[]

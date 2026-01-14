@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.JumbledIncrementer"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "JumbledIncrementer"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\JumbledIncrementerSniff"
+description: "Detects incrementer jumbling in for loops."
+
+examples:
+	[]

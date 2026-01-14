@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Attributes.DisallowAttributesJoining"
+standard: "SlevomatCodingStandard"
+category: "Attributes"
+name: "DisallowAttributesJoining"
+class: "SlevomatCodingStandard\\Sniffs\\Attributes\\DisallowAttributesJoiningSniff"
+description: ""
+
+examples:
+	[]

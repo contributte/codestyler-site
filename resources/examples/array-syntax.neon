@@ -1,0 +1,33 @@
+id: "array-syntax"
+name: "Array Syntax"
+description: "Demonstrates short array syntax enforcement"
+category: "Arrays"
+
+code: """
+	<?php
+	
+	namespace App;
+	
+	class ArrayExample
+	{
+	    public function getData(): array
+	    {
+	        // Old array() syntax should be replaced with []
+	        $colors = array('red', 'green', 'blue');
+	
+	        $nested = array(
+	            'fruits' => array('apple', 'banana'),
+	            'vegetables' => array('carrot', 'potato'),
+	        );
+	
+	        return $nested;
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- Generic.Arrays.DisallowLongArraySyntax
+	- SlevomatCodingStandard.Arrays.TrailingArrayComma
+
+properties: {}

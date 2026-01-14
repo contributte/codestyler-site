@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.ClassComment"
+standard: "Squiz"
+category: "Commenting"
+name: "ClassComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\ClassCommentSniff"
+description: "Parses and verifies the class doc comment."
+
+examples:
+	[]

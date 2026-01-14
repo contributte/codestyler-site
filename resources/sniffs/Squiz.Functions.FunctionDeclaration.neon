@@ -1,0 +1,11 @@
+code: "Squiz.Functions.FunctionDeclaration"
+standard: "Squiz"
+category: "Functions"
+name: "FunctionDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\FunctionDeclarationSniff"
+description: "Checks the function declaration is correct."
+
+properties:
+
+examples:
+	[]

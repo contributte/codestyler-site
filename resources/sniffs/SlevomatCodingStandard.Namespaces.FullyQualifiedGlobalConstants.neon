@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.FullyQualifiedGlobalConstants"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "FullyQualifiedGlobalConstants"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\FullyQualifiedGlobalConstantsSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.SuperfluousAbstractClassNaming"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "SuperfluousAbstractClassNaming"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\SuperfluousAbstractClassNamingSniff"
+description: ""
+
+examples:
+	[]

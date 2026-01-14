@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.UnusedUses"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "UnusedUses"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\UnusedUsesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

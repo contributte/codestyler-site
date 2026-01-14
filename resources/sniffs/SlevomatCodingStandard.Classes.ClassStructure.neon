@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ClassStructure"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ClassStructure"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ClassStructureSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

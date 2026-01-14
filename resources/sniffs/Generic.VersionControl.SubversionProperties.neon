@@ -1,0 +1,9 @@
+code: "Generic.VersionControl.SubversionProperties"
+standard: "Generic"
+category: "VersionControl"
+name: "SubversionProperties"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\VersionControl\\SubversionPropertiesSniff"
+description: "Tests that the correct Subversion properties are set."
+
+examples:
+	[]

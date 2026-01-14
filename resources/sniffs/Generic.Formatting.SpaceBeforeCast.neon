@@ -1,0 +1,9 @@
+code: "Generic.Formatting.SpaceBeforeCast"
+standard: "Generic"
+category: "Formatting"
+name: "SpaceBeforeCast"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Formatting\\SpaceBeforeCastSniff"
+description: "Ensures there is a single space before cast tokens."
+
+examples:
+	[]

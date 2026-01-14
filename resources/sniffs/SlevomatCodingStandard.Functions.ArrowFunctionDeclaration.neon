@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.ArrowFunctionDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "ArrowFunctionDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\ArrowFunctionDeclarationSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

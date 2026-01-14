@@ -1,0 +1,9 @@
+code: "PSR2.Methods.MethodDeclaration"
+standard: "PSR2"
+category: "Methods"
+name: "MethodDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Methods\\MethodDeclarationSniff"
+description: "Checks that the method declaration is correct."
+
+examples:
+	[]

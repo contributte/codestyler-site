@@ -1,0 +1,9 @@
+code: "Squiz.Arrays.ArrayBracketSpacing"
+standard: "Squiz"
+category: "Arrays"
+name: "ArrayBracketSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Arrays\\ArrayBracketSpacingSniff"
+description: "Ensure that there are no spaces around square brackets."
+
+examples:
+	[]

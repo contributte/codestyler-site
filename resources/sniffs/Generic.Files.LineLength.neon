@@ -1,0 +1,11 @@
+code: "Generic.Files.LineLength"
+standard: "Generic"
+category: "Files"
+name: "LineLength"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\LineLengthSniff"
+description: "Checks the length of all lines in a file."
+
+properties:
+
+examples:
+	[]

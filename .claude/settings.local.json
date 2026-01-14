@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(make:*)",
+      "Bash(php bin/inspect:*)",
+      "Bash(php bin/snapshots:*)",
+      "Bash(vendor/bin/phpcs:*)",
+      "Bash(vendor/bin/tester:*)",
+      "Bash(wc:*)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:latte.nette.org)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

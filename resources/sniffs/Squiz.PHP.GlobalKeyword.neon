@@ -1,0 +1,9 @@
+code: "Squiz.PHP.GlobalKeyword"
+standard: "Squiz"
+category: "PHP"
+name: "GlobalKeyword"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\GlobalKeywordSniff"
+description: 'Stops the usage of the "global" keyword.'
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "PEAR.Commenting.FunctionComment"
+standard: "PEAR"
+category: "Commenting"
+name: "FunctionComment"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Commenting\\FunctionCommentSniff"
+description: "Parses and verifies the doc comments for functions."
+
+properties:
+
+examples:
+	[]

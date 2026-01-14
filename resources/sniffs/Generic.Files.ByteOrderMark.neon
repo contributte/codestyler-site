@@ -1,0 +1,9 @@
+code: "Generic.Files.ByteOrderMark"
+standard: "Generic"
+category: "Files"
+name: "ByteOrderMark"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\ByteOrderMarkSniff"
+description: "A simple sniff for detecting a BOM definition that may corrupt application work."
+
+examples:
+	[]

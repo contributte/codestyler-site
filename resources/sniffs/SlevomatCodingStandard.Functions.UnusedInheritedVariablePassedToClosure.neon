@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.UnusedInheritedVariablePassedToClosure"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "UnusedInheritedVariablePassedToClosure"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\UnusedInheritedVariablePassedToClosureSniff"
+description: ""
+
+examples:
+	[]

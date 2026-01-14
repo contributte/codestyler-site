@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.FunctionCommentThrowTag"
+standard: "Squiz"
+category: "Commenting"
+name: "FunctionCommentThrowTag"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\FunctionCommentThrowTagSniff"
+description: "Verifies that a @throws tag exists for each exception type a function throws."
+
+examples:
+	[]

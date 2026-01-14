@@ -1,0 +1,9 @@
+code: "Generic.PHP.LowerCaseConstant"
+standard: "Generic"
+category: "PHP"
+name: "LowerCaseConstant"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\LowerCaseConstantSniff"
+description: "Checks that all uses of true, false and null are lowercase."
+
+examples:
+	[]

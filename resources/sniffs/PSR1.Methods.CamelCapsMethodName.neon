@@ -1,0 +1,11 @@
+code: "PSR1.Methods.CamelCapsMethodName"
+standard: "PSR1"
+category: "Methods"
+name: "CamelCapsMethodName"
+class: "PHP_CodeSniffer\\Standards\\PSR1\\Sniffs\\Methods\\CamelCapsMethodNameSniff"
+description: "Ensures method names are defined using camel case."
+
+properties:
+
+examples:
+	[]

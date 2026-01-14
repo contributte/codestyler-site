@@ -1,0 +1,11 @@
+code: "Squiz.Functions.FunctionDeclarationArgumentSpacing"
+standard: "Squiz"
+category: "Functions"
+name: "FunctionDeclarationArgumentSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\FunctionDeclarationArgumentSpacingSniff"
+description: "Checks that arguments in function declarations are spaced correctly."
+
+properties:
+
+examples:
+	[]

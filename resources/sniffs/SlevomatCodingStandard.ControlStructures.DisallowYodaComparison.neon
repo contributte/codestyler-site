@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowYodaComparison"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowYodaComparison"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowYodaComparisonSniff"
+description: "Bigger value must be on the left side:"
+
+examples:
+	[]

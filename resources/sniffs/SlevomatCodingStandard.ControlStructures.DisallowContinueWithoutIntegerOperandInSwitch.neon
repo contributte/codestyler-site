@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowContinueWithoutIntegerOperandInSwitch"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowContinueWithoutIntegerOperandInSwitch"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowContinueWithoutIntegerOperandInSwitchSniff"
+description: ""
+
+examples:
+	[]

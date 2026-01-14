@@ -1,0 +1,34 @@
+id: "naming-conventions"
+name: "Naming Conventions"
+description: "Validates method and constant naming rules"
+category: "Naming"
+
+code: """
+	<?php declare(strict_types = 1);
+	
+	namespace App;
+	
+	class NamingExample
+	{
+	    const max_value = 100;
+	    const min_value = 0;
+	
+	    public function Get_User_Name(): string
+	    {
+	        return 'John';
+	    }
+	
+	    public function Calculate_Total(): int
+	    {
+	        return self::max_value;
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- Generic.NamingConventions.UpperCaseConstantName
+	- Generic.NamingConventions.CamelCapsFunctionName
+	- PSR1.Methods.CamelCapsMethodName
+
+properties: {}

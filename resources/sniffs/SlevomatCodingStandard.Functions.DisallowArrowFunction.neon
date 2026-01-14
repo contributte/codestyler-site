@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.DisallowArrowFunction"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "DisallowArrowFunction"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\DisallowArrowFunctionSniff"
+description: ""
+
+examples:
+	[]

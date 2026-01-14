@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.EmptyCatchComment"
+standard: "Squiz"
+category: "Commenting"
+name: "EmptyCatchComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\EmptyCatchCommentSniff"
+description: "Checks for empty catch clause without a comment."
+
+examples:
+	[]

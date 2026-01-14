@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.InlineComment"
+standard: "Squiz"
+category: "Commenting"
+name: "InlineComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\InlineCommentSniff"
+description: "Checks that there is adequate spacing between comments."
+
+examples:
+	[]

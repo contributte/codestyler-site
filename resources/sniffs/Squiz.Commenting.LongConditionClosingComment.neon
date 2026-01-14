@@ -1,0 +1,11 @@
+code: "Squiz.Commenting.LongConditionClosingComment"
+standard: "Squiz"
+category: "Commenting"
+name: "LongConditionClosingComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\LongConditionClosingCommentSniff"
+description: "Ensures long conditions have a comment at the end."
+
+properties:
+
+examples:
+	[]

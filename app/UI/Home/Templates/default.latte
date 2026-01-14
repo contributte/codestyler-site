@@ -1,0 +1,61 @@
+{block #title}Welcome{/block}
+
+{block #content}
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+	<div class="text-center">
+		<h1 class="text-4xl font-bold text-gray-900 sm:text-5xl md:text-6xl">
+			<span class="block">PHP</span>
+			<span class="block text-indigo-600">Codestyler</span>
+		</h1>
+		<p class="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+			Visual PHP_CodeSniffer playground. Browse 160+ sniffs, check your code, and generate custom rulesets.
+		</p>
+		<div class="mt-8 flex justify-center gap-4">
+			<a href="{link Playground:}" class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 transition-colors">
+				Open Playground
+			</a>
+			<a href="{link Sniffs:}" class="inline-flex items-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition-colors">
+				Browse Sniffs
+			</a>
+		</div>
+	</div>
+
+	<div class="mt-20 grid grid-cols-1 gap-8 sm:grid-cols-3">
+		<div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+			<div class="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
+				<svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+				</svg>
+			</div>
+			<h3 class="text-lg font-semibold text-gray-900">160+ Sniffs</h3>
+			<p class="mt-2 text-gray-500">
+				Browse through Generic, Squiz, Slevomat, and other coding standard rules with examples.
+			</p>
+		</div>
+
+		<div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+			<div class="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
+				<svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/>
+				</svg>
+			</div>
+			<h3 class="text-lg font-semibold text-gray-900">Code Playground</h3>
+			<p class="mt-2 text-gray-500">
+				Paste your PHP code, select rules, and instantly see errors and auto-fixed output.
+			</p>
+		</div>
+
+		<div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+			<div class="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
+				<svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+				</svg>
+			</div>
+			<h3 class="text-lg font-semibold text-gray-900">Generate Ruleset</h3>
+			<p class="mt-2 text-gray-500">
+				Export your selected sniffs as a ready-to-use ruleset.xml file for your project.
+			</p>
+		</div>
+	</div>
+</div>
+{/block}

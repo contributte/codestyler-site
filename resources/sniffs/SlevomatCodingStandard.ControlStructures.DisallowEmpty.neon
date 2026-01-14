@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowEmpty"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowEmpty"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowEmptySniff"
+description: ""
+
+examples:
+	[]

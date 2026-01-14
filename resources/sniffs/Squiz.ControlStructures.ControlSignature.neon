@@ -1,0 +1,11 @@
+code: "Squiz.ControlStructures.ControlSignature"
+standard: "Squiz"
+category: "ControlStructures"
+name: "ControlSignature"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\ControlSignatureSniff"
+description: "Verifies that control statements conform to their coding standards."
+
+properties:
+
+examples:
+	[]

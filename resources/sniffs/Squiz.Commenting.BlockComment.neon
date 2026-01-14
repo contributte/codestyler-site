@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.BlockComment"
+standard: "Squiz"
+category: "Commenting"
+name: "BlockComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\BlockCommentSniff"
+description: "Verifies that block comments are used appropriately."
+
+examples:
+	[]

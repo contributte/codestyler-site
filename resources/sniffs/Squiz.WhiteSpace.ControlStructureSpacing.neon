@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.ControlStructureSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "ControlStructureSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\ControlStructureSpacingSniff"
+description: "Checks that control structures have the correct spacing around brackets."
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.ReturnTypeHintSpacing"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "ReturnTypeHintSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\ReturnTypeHintSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

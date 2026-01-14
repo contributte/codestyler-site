@@ -1,0 +1,5 @@
+# Local configuration example
+# Copy to local.neon and adjust as needed
+
+parameters:
+	# debug: true

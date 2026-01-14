@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.DeprecatedAnnotationDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "DeprecatedAnnotationDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\DeprecatedAnnotationDeclarationSniff"
+description: ""
+
+examples:
+	[]

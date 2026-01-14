@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.DisallowReference"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "DisallowReference"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\DisallowReferenceSniff"
+description: ""
+
+examples:
+	[]

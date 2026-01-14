@@ -1,0 +1,11 @@
+code: "PSR12.Operators.OperatorSpacing"
+standard: "PSR12"
+category: "Operators"
+name: "OperatorSpacing"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Operators\\OperatorSpacingSniff"
+description: "Verifies that operators have valid spacing surrounding them."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,50 @@
+code: "Generic.Arrays.ArrayIndent"
+standard: "Generic"
+category: "Arrays"
+name: "ArrayIndent"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Arrays\\ArrayIndentSniff"
+description: "Ensures that array are indented one tab stop."
+
+properties:
+
+examples:
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = [
+				'one',
+				'two',
+				'three',
+			];
+
+			$nested = [
+				'level1' => [
+					'level2' => [
+						'value',
+					],
+				],
+			];
+			"""
+		output: "Example of good code without errors"
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			$items = [
+			'one',
+			  'two',
+			   'three',
+			];
+
+			$nested = [
+			'level1' => [
+			'level2' => [
+			'value',
+			],
+			],
+			];
+			"""
+		output: "Example showing array indentation error"

@@ -1,0 +1,11 @@
+code: "Generic.Files.LineEndings"
+standard: "Generic"
+category: "Files"
+name: "LineEndings"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\LineEndingsSniff"
+description: "Checks that end of line characters are correct."
+
+properties:
+
+examples:
+	[]

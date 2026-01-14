@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.EarlyExit"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "EarlyExit"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\EarlyExitSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,36 @@
+id: "unused-variables"
+name: "Unused Variables"
+description: "Detects variables that are assigned but never used"
+category: "Variables"
+
+code: """
+	<?php declare(strict_types = 1);
+	
+	namespace App;
+	
+	class VariableExample
+	{
+	    public function process(): int
+	    {
+	        $unusedResult = $this->calculate();
+	        $anotherUnused = 'never used';
+	
+	        $used = 42;
+	        return $used;
+	    }
+	
+	    private function calculate(): int
+	    {
+	        $temp = 10;
+	        $result = 20;
+	        return $result;
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- SlevomatCodingStandard.Variables.UnusedVariable
+	- SlevomatCodingStandard.Variables.UselessVariable
+
+properties: {}

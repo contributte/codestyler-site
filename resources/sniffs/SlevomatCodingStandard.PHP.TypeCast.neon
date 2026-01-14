@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.TypeCast"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "TypeCast"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\TypeCastSniff"
+description: ""
+
+examples:
+	[]

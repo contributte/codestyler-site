@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireTernaryOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireTernaryOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireTernaryOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

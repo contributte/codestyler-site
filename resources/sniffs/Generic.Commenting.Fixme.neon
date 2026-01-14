@@ -1,0 +1,9 @@
+code: "Generic.Commenting.Fixme"
+standard: "Generic"
+category: "Commenting"
+name: "Fixme"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Commenting\\FixmeSniff"
+description: "Warns about FIXME comments."
+
+examples:
+	[]

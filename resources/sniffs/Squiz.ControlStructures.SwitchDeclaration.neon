@@ -1,0 +1,11 @@
+code: "Squiz.ControlStructures.SwitchDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "SwitchDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\SwitchDeclarationSniff"
+description: "Enforces switch statement formatting."
+
+properties:
+
+examples:
+	[]

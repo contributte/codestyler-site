@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.RequireTrailingCommaInDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "RequireTrailingCommaInDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\RequireTrailingCommaInDeclarationSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

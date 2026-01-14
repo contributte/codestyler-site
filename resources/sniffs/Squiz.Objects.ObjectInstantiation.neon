@@ -1,0 +1,9 @@
+code: "Squiz.Objects.ObjectInstantiation"
+standard: "Squiz"
+category: "Objects"
+name: "ObjectInstantiation"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Objects\\ObjectInstantiationSniff"
+description: "Ensures objects are assigned to a variable when instantiated."
+
+examples:
+	[]

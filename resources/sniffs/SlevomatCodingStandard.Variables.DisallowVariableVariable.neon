@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Variables.DisallowVariableVariable"
+standard: "SlevomatCodingStandard"
+category: "Variables"
+name: "DisallowVariableVariable"
+class: "SlevomatCodingStandard\\Sniffs\\Variables\\DisallowVariableVariableSniff"
+description: ""
+
+examples:
+	[]

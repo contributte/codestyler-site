@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Commenting.UselessFunctionDocComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "UselessFunctionDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\UselessFunctionDocCommentSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.DisallowTabIndent"
+standard: "Generic"
+category: "WhiteSpace"
+name: "DisallowTabIndent"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\DisallowTabIndentSniff"
+description: "Throws errors if tabs are used for indentation."
+
+examples:
+	[]

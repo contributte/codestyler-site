@@ -1,0 +1,9 @@
+code: "Squiz.PHP.DisallowComparisonAssignment"
+standard: "Squiz"
+category: "PHP"
+name: "DisallowComparisonAssignment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DisallowComparisonAssignmentSniff"
+description: "Ensures that the value of a comparison is not assigned to a variable."
+
+examples:
+	[]

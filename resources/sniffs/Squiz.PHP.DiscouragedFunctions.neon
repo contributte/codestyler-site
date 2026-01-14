@@ -1,0 +1,21 @@
+code: "Squiz.PHP.DiscouragedFunctions"
+standard: "Squiz"
+category: "PHP"
+name: "DiscouragedFunctions"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DiscouragedFunctionsSniff"
+description: "Discourages use of debug functions."
+
+properties:
+	-
+		name: "forbiddenFunctions"
+		type: "array<string>"
+		default: []
+		description: "* A list of forbidden functions with their alternatives."
+	-
+		name: "error"
+		type: "boolean"
+		default: false
+		description: "* If true, an error will be thrown; otherwise a warning."
+
+examples:
+	[]

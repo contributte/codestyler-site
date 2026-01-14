@@ -1,0 +1,11 @@
+code: "Generic.NamingConventions.CamelCapsFunctionName"
+standard: "Generic"
+category: "NamingConventions"
+name: "CamelCapsFunctionName"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\CamelCapsFunctionNameSniff"
+description: "Ensures method and functions are named correctly."
+
+properties:
+
+examples:
+	[]

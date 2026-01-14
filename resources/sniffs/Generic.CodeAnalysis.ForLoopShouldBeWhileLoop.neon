@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.ForLoopShouldBeWhileLoop"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "ForLoopShouldBeWhileLoop"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\ForLoopShouldBeWhileLoopSniff"
+description: "Detects for-loops that can be simplified to a while-loop."
+
+examples:
+	[]

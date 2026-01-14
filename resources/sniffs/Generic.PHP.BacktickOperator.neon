@@ -1,0 +1,9 @@
+code: "Generic.PHP.BacktickOperator"
+standard: "Generic"
+category: "PHP"
+name: "BacktickOperator"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\BacktickOperatorSniff"
+description: "Bans the use of the backtick execution operator."
+
+examples:
+	[]

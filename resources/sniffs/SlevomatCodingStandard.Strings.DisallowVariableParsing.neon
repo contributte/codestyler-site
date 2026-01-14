@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Strings.DisallowVariableParsing"
+standard: "SlevomatCodingStandard"
+category: "Strings"
+name: "DisallowVariableParsing"
+class: "SlevomatCodingStandard\\Sniffs\\Strings\\DisallowVariableParsingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

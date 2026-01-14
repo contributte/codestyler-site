@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.ClosingDeclarationComment"
+standard: "Squiz"
+category: "Commenting"
+name: "ClosingDeclarationComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\ClosingDeclarationCommentSniff"
+description: "Checks the //end ... comments on classes, enums, functions, interfaces and traits."
+
+examples:
+	[]

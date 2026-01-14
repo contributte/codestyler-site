@@ -1,0 +1,9 @@
+code: "PEAR.Functions.ValidDefaultValue"
+standard: "PEAR"
+category: "Functions"
+name: "ValidDefaultValue"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Functions\\ValidDefaultValueSniff"
+description: "Ensures function params with default values are at the end of the declaration."
+
+examples:
+	[]

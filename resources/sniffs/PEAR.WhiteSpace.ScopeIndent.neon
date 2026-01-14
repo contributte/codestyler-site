@@ -1,0 +1,11 @@
+code: "PEAR.WhiteSpace.ScopeIndent"
+standard: "PEAR"
+category: "WhiteSpace"
+name: "ScopeIndent"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\WhiteSpace\\ScopeIndentSniff"
+description: "Checks that control structures are structured and indented correctly."
+
+properties:
+
+examples:
+	[]

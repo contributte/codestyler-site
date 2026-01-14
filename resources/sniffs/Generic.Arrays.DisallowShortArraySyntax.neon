@@ -1,0 +1,9 @@
+code: "Generic.Arrays.DisallowShortArraySyntax"
+standard: "Generic"
+category: "Arrays"
+name: "DisallowShortArraySyntax"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Arrays\\DisallowShortArraySyntaxSniff"
+description: "Bans the use of the PHP short array syntax."
+
+examples:
+	[]

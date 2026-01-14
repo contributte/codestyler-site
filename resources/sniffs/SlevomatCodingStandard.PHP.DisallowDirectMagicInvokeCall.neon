@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.DisallowDirectMagicInvokeCall"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "DisallowDirectMagicInvokeCall"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\DisallowDirectMagicInvokeCallSniff"
+description: ""
+
+examples:
+	[]

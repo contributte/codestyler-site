@@ -1,0 +1,9 @@
+code: "Generic.WhiteSpace.IncrementDecrementSpacing"
+standard: "Generic"
+category: "WhiteSpace"
+name: "IncrementDecrementSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\IncrementDecrementSpacingSniff"
+description: "Verifies spacing between variables and increment/decrement operators."
+
+examples:
+	[]

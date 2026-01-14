@@ -1,0 +1,28 @@
+# Apache configuration file (see https://httpd.apache.org/docs/current/mod/quickreference.html)
+
+# Disable directory listing
+<IfModule mod_autoindex.c>
+	Options -Indexes
+</IfModule>
+
+# Enable URL rewriting
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	# Uncomment if you want to run from subdirectory
+	# RewriteBase /subdir/
+
+	# Prevents files starting with dot to be viewed by browser
+	RewriteRule /\.|^\. - [F]
+
+	# Front controller
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteRule !\.(pdf|js|css|gif|ico|jpg|jpeg|png|svg|webp|webm|woff|woff2|ttf|eot|mp4)$ index.php [L]
+</IfModule>
+
+# Disable ETags
+<IfModule mod_headers.c>
+	Header unset ETag
+	FileETag None
+</IfModule>

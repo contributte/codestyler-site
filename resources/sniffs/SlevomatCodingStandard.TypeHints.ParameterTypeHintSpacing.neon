@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.ParameterTypeHintSpacing"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "ParameterTypeHintSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\ParameterTypeHintSpacingSniff"
+description: ""
+
+examples:
+	[]

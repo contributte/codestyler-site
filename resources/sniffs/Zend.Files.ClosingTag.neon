@@ -1,0 +1,9 @@
+code: "Zend.Files.ClosingTag"
+standard: "Zend"
+category: "Files"
+name: "ClosingTag"
+class: "PHP_CodeSniffer\\Standards\\Zend\\Sniffs\\Files\\ClosingTagSniff"
+description: "Checks that the file does not end with a closing tag."
+
+examples:
+	[]

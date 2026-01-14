@@ -1,0 +1,11 @@
+code: "Generic.Formatting.MultipleStatementAlignment"
+standard: "Generic"
+category: "Formatting"
+name: "MultipleStatementAlignment"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Formatting\\MultipleStatementAlignmentSniff"
+description: "Checks alignment of assignments."
+
+properties:
+
+examples:
+	[]

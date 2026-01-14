@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.UselessInheritDocComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "UselessInheritDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\UselessInheritDocCommentSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,31 @@
+id: "strict-types"
+name: "Strict Types"
+description: "Enforces declare(strict_types=1) declaration"
+category: "Type Safety"
+
+code: """
+	<?php
+	
+	namespace App;
+	
+	class Calculator
+	{
+	    public function add(int $a, int $b): int
+	    {
+	        return $a + $b;
+	    }
+	
+	    public function divide(float $a, float $b): float
+	    {
+	        return $a / $b;
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- SlevomatCodingStandard.TypeHints.DeclareStrictTypes
+
+properties:
+	SlevomatCodingStandard.TypeHints.DeclareStrictTypes:
+		spacesCountAroundEqualsSign: 1

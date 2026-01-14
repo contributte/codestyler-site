@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.SuperfluousInterfaceNaming"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "SuperfluousInterfaceNaming"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\SuperfluousInterfaceNamingSniff"
+description: ""
+
+examples:
+	[]

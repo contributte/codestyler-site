@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Variables.DisallowSuperGlobalVariable"
+standard: "SlevomatCodingStandard"
+category: "Variables"
+name: "DisallowSuperGlobalVariable"
+class: "SlevomatCodingStandard\\Sniffs\\Variables\\DisallowSuperGlobalVariableSniff"
+description: ""
+
+examples:
+	[]

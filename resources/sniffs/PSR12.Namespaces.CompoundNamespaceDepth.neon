@@ -1,0 +1,11 @@
+code: "PSR12.Namespaces.CompoundNamespaceDepth"
+standard: "PSR12"
+category: "Namespaces"
+name: "CompoundNamespaceDepth"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Namespaces\\CompoundNamespaceDepthSniff"
+description: "Verifies that compound namespaces are not defined too deep."
+
+properties:
+
+examples:
+	[]

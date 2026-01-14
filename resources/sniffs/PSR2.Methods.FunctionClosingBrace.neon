@@ -1,0 +1,9 @@
+code: "PSR2.Methods.FunctionClosingBrace"
+standard: "PSR2"
+category: "Methods"
+name: "FunctionClosingBrace"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Methods\\FunctionClosingBraceSniff"
+description: "Checks that the closing brace of a function goes directly after the body."
+
+examples:
+	[]

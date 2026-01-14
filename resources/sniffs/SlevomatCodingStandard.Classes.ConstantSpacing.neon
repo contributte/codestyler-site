@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ConstantSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ConstantSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ConstantSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

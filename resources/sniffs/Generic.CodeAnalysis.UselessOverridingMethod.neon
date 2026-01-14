@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.UselessOverridingMethod"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "UselessOverridingMethod"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\UselessOverridingMethodSniff"
+description: "Detects unnecessary overridden methods that simply call their parent."
+
+examples:
+	[]

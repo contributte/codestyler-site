@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Operators.DisallowIncrementAndDecrementOperators"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "DisallowIncrementAndDecrementOperators"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\DisallowIncrementAndDecrementOperatorsSniff"
+description: ""
+
+examples:
+	[]

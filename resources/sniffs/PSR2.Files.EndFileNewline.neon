@@ -1,0 +1,9 @@
+code: "PSR2.Files.EndFileNewline"
+standard: "PSR2"
+category: "Files"
+name: "EndFileNewline"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Files\\EndFileNewlineSniff"
+description: "Ensures the file ends with a newline character."
+
+examples:
+	[]

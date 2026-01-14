@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.UselessIfConditionWithReturn"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "UselessIfConditionWithReturn"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\UselessIfConditionWithReturnSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

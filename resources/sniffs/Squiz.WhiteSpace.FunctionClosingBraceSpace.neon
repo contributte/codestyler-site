@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.FunctionClosingBraceSpace"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "FunctionClosingBraceSpace"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\FunctionClosingBraceSpaceSniff"
+description: "Checks that there is one empty line before the closing brace of a function."
+
+examples:
+	[]

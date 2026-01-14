@@ -1,0 +1,11 @@
+code: "Squiz.Functions.MultiLineFunctionDeclaration"
+standard: "Squiz"
+category: "Functions"
+name: "MultiLineFunctionDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\MultiLineFunctionDeclarationSniff"
+description: "Ensure single and multi-line function declarations are defined correctly."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.EmptyStatement"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "EmptyStatement"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\EmptyStatementSniff"
+description: "This sniff class detected empty statement."
+
+examples:
+	[]

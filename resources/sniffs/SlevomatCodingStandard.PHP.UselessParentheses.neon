@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.PHP.UselessParentheses"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "UselessParentheses"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\UselessParenthesesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.PHP.DisallowRequestSuperglobal"
+standard: "Generic"
+category: "PHP"
+name: "DisallowRequestSuperglobal"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\DisallowRequestSuperglobalSniff"
+description: "Ensures the $_REQUEST superglobal is not used"
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.PHP.DisallowBooleanStatement"
+standard: "Squiz"
+category: "PHP"
+name: "DisallowBooleanStatement"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DisallowBooleanStatementSniff"
+description: "Ensures that boolean operators are only used inside control structure conditions."
+
+examples:
+	[]

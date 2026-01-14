@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.ClassConstantTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "ClassConstantTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\ClassConstantTypeHintSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

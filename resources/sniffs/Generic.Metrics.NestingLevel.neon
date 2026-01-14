@@ -1,0 +1,11 @@
+code: "Generic.Metrics.NestingLevel"
+standard: "Generic"
+category: "Metrics"
+name: "NestingLevel"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Metrics\\NestingLevelSniff"
+description: "Checks the nesting level for methods."
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.Classes.SelfMemberReference"
+standard: "Squiz"
+category: "Classes"
+name: "SelfMemberReference"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Classes\\SelfMemberReferenceSniff"
+description: "Tests self member references."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.NamingConventions.ValidVariableName"
+standard: "Squiz"
+category: "NamingConventions"
+name: "ValidVariableName"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\NamingConventions\\ValidVariableNameSniff"
+description: "Checks the naming of variables and member variables."
+
+examples:
+	[]

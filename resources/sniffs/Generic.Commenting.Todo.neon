@@ -1,0 +1,9 @@
+code: "Generic.Commenting.Todo"
+standard: "Generic"
+category: "Commenting"
+name: "Todo"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Commenting\\TodoSniff"
+description: "Warns about TODO comments."
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "Squiz.WhiteSpace.FunctionSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "FunctionSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\FunctionSpacingSniff"
+description: "Checks the separation between functions and methods."
+
+properties:
+
+examples:
+	[]

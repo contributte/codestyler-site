@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Operators.RequireCombinedAssignmentOperator"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "RequireCombinedAssignmentOperator"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\RequireCombinedAssignmentOperatorSniff"
+description: ""
+
+examples:
+	[]

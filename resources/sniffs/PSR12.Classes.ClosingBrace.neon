@@ -1,0 +1,9 @@
+code: "PSR12.Classes.ClosingBrace"
+standard: "PSR12"
+category: "Classes"
+name: "ClosingBrace"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Classes\\ClosingBraceSniff"
+description: "Verifies that closing braces are the last content on a line."
+
+examples:
+	[]

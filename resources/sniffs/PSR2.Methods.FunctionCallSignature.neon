@@ -1,0 +1,11 @@
+code: "PSR2.Methods.FunctionCallSignature"
+standard: "PSR2"
+category: "Methods"
+name: "FunctionCallSignature"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Methods\\FunctionCallSignatureSniff"
+description: "Checks that the function call format is correct."
+
+properties:
+
+examples:
+	[]

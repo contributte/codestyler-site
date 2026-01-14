@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.DocCommentAlignment"
+standard: "Squiz"
+category: "Commenting"
+name: "DocCommentAlignment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\DocCommentAlignmentSniff"
+description: "Tests that the stars in a doc comment align correctly."
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.PropertyDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "PropertyDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\PropertyDeclarationSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

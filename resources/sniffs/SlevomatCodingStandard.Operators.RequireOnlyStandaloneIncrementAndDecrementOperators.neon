@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Operators.RequireOnlyStandaloneIncrementAndDecrementOperators"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "RequireOnlyStandaloneIncrementAndDecrementOperators"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\RequireOnlyStandaloneIncrementAndDecrementOperatorsSniff"
+description: ""
+
+examples:
+	[]

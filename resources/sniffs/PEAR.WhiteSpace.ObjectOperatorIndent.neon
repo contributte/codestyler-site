@@ -1,0 +1,11 @@
+code: "PEAR.WhiteSpace.ObjectOperatorIndent"
+standard: "PEAR"
+category: "WhiteSpace"
+name: "ObjectOperatorIndent"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\WhiteSpace\\ObjectOperatorIndentSniff"
+description: "Checks that object operators are indented correctly."
+
+properties:
+
+examples:
+	[]

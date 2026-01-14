@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.DisallowMultiConstantDefinition"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "DisallowMultiConstantDefinition"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\DisallowMultiConstantDefinitionSniff"
+description: ""
+
+examples:
+	[]

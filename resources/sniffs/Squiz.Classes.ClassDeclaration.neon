@@ -1,0 +1,11 @@
+code: "Squiz.Classes.ClassDeclaration"
+standard: "Squiz"
+category: "Classes"
+name: "ClassDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Classes\\ClassDeclarationSniff"
+description: "Checks the declaration of the class and its inheritance is correct."
+
+properties:
+
+examples:
+	[]

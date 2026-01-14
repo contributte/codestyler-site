@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Arrays.AlphabeticallySortedByKeys"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "AlphabeticallySortedByKeys"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\AlphabeticallySortedByKeysSniff"
+description: ""
+
+examples:
+	[]

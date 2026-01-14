@@ -1,0 +1,11 @@
+code: "Generic.WhiteSpace.ArbitraryParenthesesSpacing"
+standard: "Generic"
+category: "WhiteSpace"
+name: "ArbitraryParenthesesSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\ArbitraryParenthesesSpacingSniff"
+description: "Check & fix whitespace on the inside of arbitrary parentheses."
+
+properties:
+
+examples:
+	[]

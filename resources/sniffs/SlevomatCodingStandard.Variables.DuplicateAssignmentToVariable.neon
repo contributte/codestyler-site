@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Variables.DuplicateAssignmentToVariable"
+standard: "SlevomatCodingStandard"
+category: "Variables"
+name: "DuplicateAssignmentToVariable"
+class: "SlevomatCodingStandard\\Sniffs\\Variables\\DuplicateAssignmentToVariableSniff"
+description: ""
+
+examples:
+	[]

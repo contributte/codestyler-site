@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireNullCoalesceEqualOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireNullCoalesceEqualOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireNullCoalesceEqualOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

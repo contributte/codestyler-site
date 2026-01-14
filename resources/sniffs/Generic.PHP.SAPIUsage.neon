@@ -1,0 +1,9 @@
+code: "Generic.PHP.SAPIUsage"
+standard: "Generic"
+category: "PHP"
+name: "SAPIUsage"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\SAPIUsageSniff"
+description: "Ensures the PHP_SAPI constant is used instead of php_sapi_name()."
+
+examples:
+	[]

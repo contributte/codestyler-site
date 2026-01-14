@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Arrays.MultiLineArrayEndBracketPlacement"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "MultiLineArrayEndBracketPlacement"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\MultiLineArrayEndBracketPlacementSniff"
+description: ""
+
+examples:
+	[]

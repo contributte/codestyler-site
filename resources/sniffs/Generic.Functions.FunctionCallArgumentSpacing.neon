@@ -1,0 +1,9 @@
+code: "Generic.Functions.FunctionCallArgumentSpacing"
+standard: "Generic"
+category: "Functions"
+name: "FunctionCallArgumentSpacing"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Functions\\FunctionCallArgumentSpacingSniff"
+description: "Checks that calls to methods and functions are spaced correctly."
+
+examples:
+	[]

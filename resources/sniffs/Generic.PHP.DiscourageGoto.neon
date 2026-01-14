@@ -1,0 +1,9 @@
+code: "Generic.PHP.DiscourageGoto"
+standard: "Generic"
+category: "PHP"
+name: "DiscourageGoto"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\DiscourageGotoSniff"
+description: "Discourage the use of the PHP `goto` language construct."
+
+examples:
+	[]

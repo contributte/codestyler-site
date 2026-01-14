@@ -1,0 +1,11 @@
+code: "Generic.WhiteSpace.SpreadOperatorSpacingAfter"
+standard: "Generic"
+category: "WhiteSpace"
+name: "SpreadOperatorSpacingAfter"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\SpreadOperatorSpacingAfterSniff"
+description: "Verifies spacing between the spread operator and the variable/function call it applies to."
+
+properties:
+
+examples:
+	[]

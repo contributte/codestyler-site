@@ -1,0 +1,9 @@
+code: "Squiz.PHP.LowercasePHPFunctions"
+standard: "Squiz"
+category: "PHP"
+name: "LowercasePHPFunctions"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\LowercasePHPFunctionsSniff"
+description: "Ensures all calls to inbuilt PHP functions are lowercase."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.LongTypeHints"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "LongTypeHints"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\LongTypeHintsSniff"
+description: ""
+
+examples:
+	[]

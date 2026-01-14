@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Commenting.AnnotationName"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "AnnotationName"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\AnnotationNameSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

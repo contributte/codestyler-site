@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Arrays.ArrayAccess"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "ArrayAccess"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\ArrayAccessSniff"
+description: ""
+
+examples:
+	[]

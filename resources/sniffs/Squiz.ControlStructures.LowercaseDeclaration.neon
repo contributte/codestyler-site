@@ -1,0 +1,9 @@
+code: "Squiz.ControlStructures.LowercaseDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "LowercaseDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\LowercaseDeclarationSniff"
+description: "Ensures all control structure keywords are lowercase."
+
+examples:
+	[]

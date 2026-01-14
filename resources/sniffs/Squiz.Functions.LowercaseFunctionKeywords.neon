@@ -1,0 +1,9 @@
+code: "Squiz.Functions.LowercaseFunctionKeywords"
+standard: "Squiz"
+category: "Functions"
+name: "LowercaseFunctionKeywords"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Functions\\LowercaseFunctionKeywordsSniff"
+description: "Ensures all function keywords are lowercase."
+
+examples:
+	[]

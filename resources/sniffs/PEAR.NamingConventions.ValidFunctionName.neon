@@ -1,0 +1,9 @@
+code: "PEAR.NamingConventions.ValidFunctionName"
+standard: "PEAR"
+category: "NamingConventions"
+name: "ValidFunctionName"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\NamingConventions\\ValidFunctionNameSniff"
+description: "Ensures method and function names are correct."
+
+examples:
+	[]

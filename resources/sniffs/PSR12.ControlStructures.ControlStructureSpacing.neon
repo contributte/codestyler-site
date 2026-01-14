@@ -1,0 +1,11 @@
+code: "PSR12.ControlStructures.ControlStructureSpacing"
+standard: "PSR12"
+category: "ControlStructures"
+name: "ControlStructureSpacing"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\ControlStructures\\ControlStructureSpacingSniff"
+description: "Checks that control structures have the correct spacing."
+
+properties:
+
+examples:
+	[]

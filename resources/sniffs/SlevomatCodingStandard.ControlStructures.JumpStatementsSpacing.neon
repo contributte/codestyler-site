@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.JumpStatementsSpacing"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "JumpStatementsSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\JumpStatementsSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

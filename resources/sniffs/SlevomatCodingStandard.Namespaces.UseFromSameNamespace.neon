@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.UseFromSameNamespace"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "UseFromSameNamespace"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\UseFromSameNamespaceSniff"
+description: ""
+
+examples:
+	[]

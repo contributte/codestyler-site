@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.TraitUseSpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "TraitUseSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\TraitUseSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

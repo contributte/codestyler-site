@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.ClassKeywordOrder"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ClassKeywordOrder"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ClassKeywordOrderSniff"
+description: ""
+
+examples:
+	[]

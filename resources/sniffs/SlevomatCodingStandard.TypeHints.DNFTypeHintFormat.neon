@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.DNFTypeHintFormat"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "DNFTypeHintFormat"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\DNFTypeHintFormatSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.TraitUseDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "TraitUseDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\TraitUseDeclarationSniff"
+description: ""
+
+examples:
+	[]

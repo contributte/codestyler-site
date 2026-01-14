@@ -1,0 +1,9 @@
+code: "Squiz.ControlStructures.InlineIfDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "InlineIfDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\InlineIfDeclarationSniff"
+description: "Tests the spacing of shorthand IF statements."
+
+examples:
+	[]

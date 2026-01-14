@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowTrailingMultiLineTernaryOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowTrailingMultiLineTernaryOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowTrailingMultiLineTernaryOperatorSniff"
+description: ""
+
+examples:
+	[]

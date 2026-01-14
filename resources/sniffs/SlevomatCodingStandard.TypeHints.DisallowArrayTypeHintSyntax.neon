@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.DisallowArrayTypeHintSyntax"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "DisallowArrayTypeHintSyntax"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\DisallowArrayTypeHintSyntaxSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

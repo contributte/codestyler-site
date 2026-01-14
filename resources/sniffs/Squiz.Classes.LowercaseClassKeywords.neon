@@ -1,0 +1,9 @@
+code: "Squiz.Classes.LowercaseClassKeywords"
+standard: "Squiz"
+category: "Classes"
+name: "LowercaseClassKeywords"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Classes\\LowercaseClassKeywordsSniff"
+description: "Ensures all class keywords are lowercase."
+
+examples:
+	[]

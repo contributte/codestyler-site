@@ -1,0 +1,9 @@
+code: "Generic.Files.ExecutableFile"
+standard: "Generic"
+category: "Files"
+name: "ExecutableFile"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Files\\ExecutableFileSniff"
+description: "Tests that files are not executable."
+
+examples:
+	[]

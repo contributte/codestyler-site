@@ -1,0 +1,9 @@
+code: "Generic.VersionControl.GitMergeConflict"
+standard: "Generic"
+category: "VersionControl"
+name: "GitMergeConflict"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\VersionControl\\GitMergeConflictSniff"
+description: "Check for merge conflict artefacts."
+
+examples:
+	[]

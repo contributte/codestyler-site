@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireMultiLineTernaryOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireMultiLineTernaryOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireMultiLineTernaryOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

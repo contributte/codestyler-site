@@ -1,0 +1,9 @@
+code: "Squiz.PHP.DisallowMultipleAssignments"
+standard: "Squiz"
+category: "PHP"
+name: "DisallowMultipleAssignments"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\DisallowMultipleAssignmentsSniff"
+description: "Ensures there is only one assignment on a line, and that it is the first thing on the line."
+
+examples:
+	[]

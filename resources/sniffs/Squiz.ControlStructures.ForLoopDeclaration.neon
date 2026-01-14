@@ -1,0 +1,11 @@
+code: "Squiz.ControlStructures.ForLoopDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "ForLoopDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\ForLoopDeclarationSniff"
+description: "Verifies that there is a space between each condition of for loops."
+
+properties:
+
+examples:
+	[]

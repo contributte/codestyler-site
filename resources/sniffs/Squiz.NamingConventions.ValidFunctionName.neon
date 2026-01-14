@@ -1,0 +1,9 @@
+code: "Squiz.NamingConventions.ValidFunctionName"
+standard: "Squiz"
+category: "NamingConventions"
+name: "ValidFunctionName"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\NamingConventions\\ValidFunctionNameSniff"
+description: "Ensures method names are correct."
+
+examples:
+	[]

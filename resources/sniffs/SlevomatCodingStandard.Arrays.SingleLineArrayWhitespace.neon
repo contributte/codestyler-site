@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Arrays.SingleLineArrayWhitespace"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "SingleLineArrayWhitespace"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\SingleLineArrayWhitespaceSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

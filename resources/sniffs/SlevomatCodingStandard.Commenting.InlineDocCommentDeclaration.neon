@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Commenting.InlineDocCommentDeclaration"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "InlineDocCommentDeclaration"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\InlineDocCommentDeclarationSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

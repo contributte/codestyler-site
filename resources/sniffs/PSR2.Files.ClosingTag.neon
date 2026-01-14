@@ -1,0 +1,9 @@
+code: "PSR2.Files.ClosingTag"
+standard: "PSR2"
+category: "Files"
+name: "ClosingTag"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Files\\ClosingTagSniff"
+description: "Checks that the file does not end with a closing tag."
+
+examples:
+	[]

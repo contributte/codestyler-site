@@ -1,0 +1,9 @@
+code: "Generic.PHP.UpperCaseConstant"
+standard: "Generic"
+category: "PHP"
+name: "UpperCaseConstant"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\UpperCaseConstantSniff"
+description: "Checks that all uses of TRUE, FALSE and NULL are uppercase."
+
+examples:
+	[]

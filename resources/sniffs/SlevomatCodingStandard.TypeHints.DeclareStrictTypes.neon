@@ -1,0 +1,34 @@
+code: "SlevomatCodingStandard.TypeHints.DeclareStrictTypes"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "DeclareStrictTypes"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\DeclareStrictTypesSniff"
+description: "Requires strict types declare in all files."
+
+properties:
+
+examples:
+	-
+		config: {}
+		input: """
+			<?php declare(strict_types=1);
+
+			namespace App;
+
+			class Example
+			{
+			}
+			"""
+		output: "Example of good code without errors"
+	-
+		config: {}
+		input: """
+			<?php
+
+			namespace App;
+
+			class Example
+			{
+			}
+			"""
+		output: "Example showing missing strict_types declare error"

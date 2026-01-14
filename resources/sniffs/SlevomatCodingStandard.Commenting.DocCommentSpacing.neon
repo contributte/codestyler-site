@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Commenting.DocCommentSpacing"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "DocCommentSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\DocCommentSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

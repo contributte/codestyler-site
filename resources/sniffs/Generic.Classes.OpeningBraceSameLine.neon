@@ -1,0 +1,9 @@
+code: "Generic.Classes.OpeningBraceSameLine"
+standard: "Generic"
+category: "Classes"
+name: "OpeningBraceSameLine"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Classes\\OpeningBraceSameLineSniff"
+description: "Checks that the opening brace of a class/interface/trait is on the same line as the class declaration."
+
+examples:
+	[]

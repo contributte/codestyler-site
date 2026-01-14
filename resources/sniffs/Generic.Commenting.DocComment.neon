@@ -1,0 +1,9 @@
+code: "Generic.Commenting.DocComment"
+standard: "Generic"
+category: "Commenting"
+name: "DocComment"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Commenting\\DocCommentSniff"
+description: "Ensures doc blocks follow basic formatting."
+
+examples:
+	[]

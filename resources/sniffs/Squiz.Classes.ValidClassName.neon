@@ -1,0 +1,9 @@
+code: "Squiz.Classes.ValidClassName"
+standard: "Squiz"
+category: "Classes"
+name: "ValidClassName"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Classes\\ValidClassNameSniff"
+description: "Ensures classes are in camel caps, and the first letter is capitalised."
+
+examples:
+	[]

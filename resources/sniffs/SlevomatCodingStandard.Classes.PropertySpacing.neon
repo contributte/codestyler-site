@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.PropertySpacing"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "PropertySpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\PropertySpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

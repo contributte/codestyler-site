@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.DisallowConstructorPropertyPromotion"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "DisallowConstructorPropertyPromotion"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\DisallowConstructorPropertyPromotionSniff"
+description: ""
+
+examples:
+	[]

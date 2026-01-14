@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Arrays.DisallowImplicitArrayCreation"
+standard: "SlevomatCodingStandard"
+category: "Arrays"
+name: "DisallowImplicitArrayCreation"
+class: "SlevomatCodingStandard\\Sniffs\\Arrays\\DisallowImplicitArrayCreationSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "Generic.Functions.OpeningFunctionBraceBsdAllman"
+standard: "Generic"
+category: "Functions"
+name: "OpeningFunctionBraceBsdAllman"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Functions\\OpeningFunctionBraceBsdAllmanSniff"
+description: "Checks that the opening brace of a function is on the line after the function declaration."
+
+properties:
+
+examples:
+	[]

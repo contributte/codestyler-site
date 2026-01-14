@@ -1,0 +1,9 @@
+code: "Squiz.ControlStructures.ElseIfDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "ElseIfDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\ElseIfDeclarationSniff"
+description: "Ensures the use of else if over elseif."
+
+examples:
+	[]

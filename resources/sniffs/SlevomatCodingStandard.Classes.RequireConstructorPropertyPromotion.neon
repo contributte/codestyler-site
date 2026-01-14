@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.RequireConstructorPropertyPromotion"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "RequireConstructorPropertyPromotion"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\RequireConstructorPropertyPromotionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

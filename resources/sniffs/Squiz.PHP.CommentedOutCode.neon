@@ -1,0 +1,11 @@
+code: "Squiz.PHP.CommentedOutCode"
+standard: "Squiz"
+category: "PHP"
+name: "CommentedOutCode"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\CommentedOutCodeSniff"
+description: "Warn about commented out code."
+
+properties:
+
+examples:
+	[]

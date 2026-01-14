@@ -1,0 +1,40 @@
+id: "type-hints"
+name: "Type Hints"
+description: "Enforces type hints on parameters, properties, and returns"
+category: "Type Safety"
+
+code: """
+	<?php declare(strict_types = 1);
+	
+	namespace App;
+	
+	class TypeHintExample
+	{
+	    private $name;
+	    private $age;
+	
+	    public function __construct($name, $age)
+	    {
+	        $this->name = $name;
+	        $this->age = $age;
+	    }
+	
+	    public function getName()
+	    {
+	        return $this->name;
+	    }
+	
+	    public function isAdult()
+	    {
+	        return $this->age >= 18;
+	    }
+	}
+	
+	"""
+
+sniffs:
+	- SlevomatCodingStandard.TypeHints.ParameterTypeHint
+	- SlevomatCodingStandard.TypeHints.PropertyTypeHint
+	- SlevomatCodingStandard.TypeHints.ReturnTypeHint
+
+properties: {}

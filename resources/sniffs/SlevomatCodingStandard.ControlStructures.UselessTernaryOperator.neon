@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.UselessTernaryOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "UselessTernaryOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\UselessTernaryOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

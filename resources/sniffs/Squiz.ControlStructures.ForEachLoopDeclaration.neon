@@ -1,0 +1,11 @@
+code: "Squiz.ControlStructures.ForEachLoopDeclaration"
+standard: "Squiz"
+category: "ControlStructures"
+name: "ForEachLoopDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\ControlStructures\\ForEachLoopDeclarationSniff"
+description: "Verifies that there is a space between each condition of foreach loops."
+
+properties:
+
+examples:
+	[]

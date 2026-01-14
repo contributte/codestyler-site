@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.UnnecessaryFinalModifier"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "UnnecessaryFinalModifier"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\UnnecessaryFinalModifierSniff"
+description: "Detects unnecessary final modifiers inside of final classes."
+
+examples:
+	[]

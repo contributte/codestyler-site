@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.VariableComment"
+standard: "Squiz"
+category: "Commenting"
+name: "VariableComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\VariableCommentSniff"
+description: "Parses and verifies the variable doc comment."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.Strings.UnnecessaryHeredoc"
+standard: "Generic"
+category: "Strings"
+name: "UnnecessaryHeredoc"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Strings\\UnnecessaryHeredocSniff"
+description: "Prefer the use of nowdoc over heredoc."
+
+examples:
+	[]

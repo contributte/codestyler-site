@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.ReferenceUsedNamesOnly"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "ReferenceUsedNamesOnly"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\ReferenceUsedNamesOnlySniff"
+description: "If empty, all namespaces are required to be used"
+
+properties:
+
+examples:
+	[]

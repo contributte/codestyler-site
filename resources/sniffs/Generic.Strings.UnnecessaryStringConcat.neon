@@ -1,0 +1,11 @@
+code: "Generic.Strings.UnnecessaryStringConcat"
+standard: "Generic"
+category: "Strings"
+name: "UnnecessaryStringConcat"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Strings\\UnnecessaryStringConcatSniff"
+description: "Checks that two strings are not concatenated together; suggests using one string instead."
+
+properties:
+
+examples:
+	[]

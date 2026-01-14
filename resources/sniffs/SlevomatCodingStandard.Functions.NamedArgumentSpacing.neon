@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.NamedArgumentSpacing"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "NamedArgumentSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\NamedArgumentSpacingSniff"
+description: ""
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Generic.PHP.DisallowAlternativePHPTags"
+standard: "Generic"
+category: "PHP"
+name: "DisallowAlternativePHPTags"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\DisallowAlternativePHPTagsSniff"
+description: "Verifies that no alternative PHP tags are used."
+
+examples:
+	[]

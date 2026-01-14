@@ -1,0 +1,9 @@
+code: "Squiz.Scope.MethodScope"
+standard: "Squiz"
+category: "Scope"
+name: "MethodScope"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Scope\\MethodScopeSniff"
+description: "Verifies that class methods have scope modifiers."
+
+examples:
+	[]

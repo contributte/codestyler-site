@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ClassConstantVisibility"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ClassConstantVisibility"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ClassConstantVisibilitySniff"
+description: ""
+
+properties:
+
+examples:
+	[]

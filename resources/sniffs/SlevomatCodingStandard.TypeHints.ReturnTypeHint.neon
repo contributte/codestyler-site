@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.TypeHints.ReturnTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "ReturnTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\ReturnTypeHintSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

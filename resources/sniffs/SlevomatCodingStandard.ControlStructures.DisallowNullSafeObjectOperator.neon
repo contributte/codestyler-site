@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowNullSafeObjectOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowNullSafeObjectOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowNullSafeObjectOperatorSniff"
+description: ""
+
+examples:
+	[]

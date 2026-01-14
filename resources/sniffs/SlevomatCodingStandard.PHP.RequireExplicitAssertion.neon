@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.PHP.RequireExplicitAssertion"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "RequireExplicitAssertion"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\RequireExplicitAssertionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

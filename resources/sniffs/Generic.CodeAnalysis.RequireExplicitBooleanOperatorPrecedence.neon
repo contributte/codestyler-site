@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.RequireExplicitBooleanOperatorPrecedence"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "RequireExplicitBooleanOperatorPrecedence"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\RequireExplicitBooleanOperatorPrecedenceSniff"
+description: "Forbid mixing different binary boolean operators within a single expression without making precedence"
+
+examples:
+	[]

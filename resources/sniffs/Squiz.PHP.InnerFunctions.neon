@@ -1,0 +1,9 @@
+code: "Squiz.PHP.InnerFunctions"
+standard: "Squiz"
+category: "PHP"
+name: "InnerFunctions"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\InnerFunctionsSniff"
+description: "Ensures that functions within functions are never used."
+
+examples:
+	[]

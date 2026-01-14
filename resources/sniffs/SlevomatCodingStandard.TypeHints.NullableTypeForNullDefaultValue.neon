@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.NullableTypeForNullDefaultValue"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "NullableTypeForNullDefaultValue"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\NullableTypeForNullDefaultValueSniff"
+description: ""
+
+examples:
+	[]

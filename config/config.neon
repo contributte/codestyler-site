@@ -1,0 +1,31 @@
+# ======================================
+# Config ===============================
+php:
+	date.timezone: Europe/Prague
+
+# ======================================
+# Parameters ===========================
+parameters:
+
+# ======================================
+# Extensions ===========================
+extensions:
+
+# ======================================
+# Latte ================================
+latte:
+	extensions:
+		- App\Latte\LatteExtension
+
+# ======================================
+# Services =============================
+services:
+	# Application services
+	- App\Service\ExampleLoader
+	- App\Service\SniffLoader
+	- App\Service\SniffService
+	- App\Service\CodeCheckerService(%rootDir%, %tempDir%)
+	- App\Service\RulesetGeneratorService
+	- App\Service\ShareService
+	- App\Service\PresetService
+	- App\Service\ExampleService

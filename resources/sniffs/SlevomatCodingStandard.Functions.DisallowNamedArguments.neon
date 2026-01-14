@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.DisallowNamedArguments"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "DisallowNamedArguments"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\DisallowNamedArgumentsSniff"
+description: ""
+
+examples:
+	[]

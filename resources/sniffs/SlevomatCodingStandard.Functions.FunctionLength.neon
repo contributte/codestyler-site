@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.FunctionLength"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "FunctionLength"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\FunctionLengthSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

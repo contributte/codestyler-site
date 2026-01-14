@@ -1,0 +1,9 @@
+code: "PSR2.Classes.PropertyDeclaration"
+standard: "PSR2"
+category: "Classes"
+name: "PropertyDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\Classes\\PropertyDeclarationSniff"
+description: "Verifies that properties are declared correctly."
+
+examples:
+	[]

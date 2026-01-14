@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireMultiLineCondition"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireMultiLineCondition"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireMultiLineConditionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

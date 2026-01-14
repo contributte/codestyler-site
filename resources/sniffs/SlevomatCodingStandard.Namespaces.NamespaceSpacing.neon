@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Namespaces.NamespaceSpacing"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "NamespaceSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\NamespaceSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

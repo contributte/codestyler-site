@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Variables.UnusedVariable"
+standard: "SlevomatCodingStandard"
+category: "Variables"
+name: "UnusedVariable"
+class: "SlevomatCodingStandard\\Sniffs\\Variables\\UnusedVariableSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

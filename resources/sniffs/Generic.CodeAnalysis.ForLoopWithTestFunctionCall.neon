@@ -1,0 +1,9 @@
+code: "Generic.CodeAnalysis.ForLoopWithTestFunctionCall"
+standard: "Generic"
+category: "CodeAnalysis"
+name: "ForLoopWithTestFunctionCall"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\CodeAnalysis\\ForLoopWithTestFunctionCallSniff"
+description: "Detects for-loops that use a function call in the test expression."
+
+examples:
+	[]

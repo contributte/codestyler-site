@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Operators.NegationOperatorSpacing"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "NegationOperatorSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\NegationOperatorSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

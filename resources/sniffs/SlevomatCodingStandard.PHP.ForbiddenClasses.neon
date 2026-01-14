@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.PHP.ForbiddenClasses"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "ForbiddenClasses"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\ForbiddenClassesSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

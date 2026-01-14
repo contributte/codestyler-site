@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.UnusedParameter"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "UnusedParameter"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\UnusedParameterSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

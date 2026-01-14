@@ -1,0 +1,9 @@
+code: "PEAR.NamingConventions.ValidClassName"
+standard: "PEAR"
+category: "NamingConventions"
+name: "ValidClassName"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\NamingConventions\\ValidClassNameSniff"
+description: "Ensures class and interface names start with a capital letter and use _ separators."
+
+examples:
+	[]

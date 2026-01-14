@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.RequireOneLinePropertyDocComment"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "RequireOneLinePropertyDocComment"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\RequireOneLinePropertyDocCommentSniff"
+description: ""
+
+examples:
+	[]

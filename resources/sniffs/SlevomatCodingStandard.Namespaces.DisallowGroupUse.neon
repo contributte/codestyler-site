@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Namespaces.DisallowGroupUse"
+standard: "SlevomatCodingStandard"
+category: "Namespaces"
+name: "DisallowGroupUse"
+class: "SlevomatCodingStandard\\Sniffs\\Namespaces\\DisallowGroupUseSniff"
+description: ""
+
+examples:
+	[]

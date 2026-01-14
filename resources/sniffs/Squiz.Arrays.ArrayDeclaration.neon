@@ -1,0 +1,9 @@
+code: "Squiz.Arrays.ArrayDeclaration"
+standard: "Squiz"
+category: "Arrays"
+name: "ArrayDeclaration"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Arrays\\ArrayDeclarationSniff"
+description: "Ensures that arrays conform to the array coding standard."
+
+examples:
+	[]

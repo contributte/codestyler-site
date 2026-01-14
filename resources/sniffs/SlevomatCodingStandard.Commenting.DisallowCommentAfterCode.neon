@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Commenting.DisallowCommentAfterCode"
+standard: "SlevomatCodingStandard"
+category: "Commenting"
+name: "DisallowCommentAfterCode"
+class: "SlevomatCodingStandard\\Sniffs\\Commenting\\DisallowCommentAfterCodeSniff"
+description: ""
+
+examples:
+	[]

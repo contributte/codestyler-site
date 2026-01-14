@@ -1,0 +1,11 @@
+code: "Squiz.WhiteSpace.OperatorSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "OperatorSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\OperatorSpacingSniff"
+description: "Verifies that operators have valid spacing surrounding them."
+
+properties:
+
+examples:
+	[]

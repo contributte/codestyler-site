@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Exceptions.RequireNonCapturingCatch"
+standard: "SlevomatCodingStandard"
+category: "Exceptions"
+name: "RequireNonCapturingCatch"
+class: "SlevomatCodingStandard\\Sniffs\\Exceptions\\RequireNonCapturingCatchSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

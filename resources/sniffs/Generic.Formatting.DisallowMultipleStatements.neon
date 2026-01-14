@@ -1,0 +1,9 @@
+code: "Generic.Formatting.DisallowMultipleStatements"
+standard: "Generic"
+category: "Formatting"
+name: "DisallowMultipleStatements"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Formatting\\DisallowMultipleStatementsSniff"
+description: "Ensures each statement is on a line by itself."
+
+examples:
+	[]

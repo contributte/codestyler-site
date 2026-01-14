@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Operators.SpreadOperatorSpacing"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "SpreadOperatorSpacing"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\SpreadOperatorSpacingSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

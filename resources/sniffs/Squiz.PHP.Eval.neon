@@ -1,0 +1,9 @@
+code: "Squiz.PHP.Eval"
+standard: "Squiz"
+category: "PHP"
+name: "Eval"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\EvalSniff"
+description: "The use of eval() is discouraged."
+
+examples:
+	[]

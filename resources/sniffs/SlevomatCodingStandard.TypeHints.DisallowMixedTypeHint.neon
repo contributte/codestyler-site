@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.TypeHints.DisallowMixedTypeHint"
+standard: "SlevomatCodingStandard"
+category: "TypeHints"
+name: "DisallowMixedTypeHint"
+class: "SlevomatCodingStandard\\Sniffs\\TypeHints\\DisallowMixedTypeHintSniff"
+description: ""
+
+examples:
+	[]

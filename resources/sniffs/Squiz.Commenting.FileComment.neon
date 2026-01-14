@@ -1,0 +1,9 @@
+code: "Squiz.Commenting.FileComment"
+standard: "Squiz"
+category: "Commenting"
+name: "FileComment"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Commenting\\FileCommentSniff"
+description: "Parses and verifies the file doc comment."
+
+examples:
+	[]

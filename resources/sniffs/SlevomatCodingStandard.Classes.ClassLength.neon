@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Classes.ClassLength"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "ClassLength"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\ClassLengthSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

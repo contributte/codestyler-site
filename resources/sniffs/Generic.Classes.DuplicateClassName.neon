@@ -1,0 +1,9 @@
+code: "Generic.Classes.DuplicateClassName"
+standard: "Generic"
+category: "Classes"
+name: "DuplicateClassName"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Classes\\DuplicateClassNameSniff"
+description: "Reports errors if the same class or interface name is used in multiple files."
+
+examples:
+	[]

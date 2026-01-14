@@ -1,0 +1,9 @@
+code: "Generic.NamingConventions.UpperCaseConstantName"
+standard: "Generic"
+category: "NamingConventions"
+name: "UpperCaseConstantName"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\NamingConventions\\UpperCaseConstantNameSniff"
+description: "Ensures that constant names are all uppercase."
+
+examples:
+	[]

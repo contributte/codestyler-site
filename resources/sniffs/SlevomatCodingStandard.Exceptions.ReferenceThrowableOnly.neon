@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Exceptions.ReferenceThrowableOnly"
+standard: "SlevomatCodingStandard"
+category: "Exceptions"
+name: "ReferenceThrowableOnly"
+class: "SlevomatCodingStandard\\Sniffs\\Exceptions\\ReferenceThrowableOnlySniff"
+description: ""
+
+examples:
+	[]

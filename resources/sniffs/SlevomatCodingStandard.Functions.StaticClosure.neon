@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Functions.StaticClosure"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "StaticClosure"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\StaticClosureSniff"
+description: ""
+
+examples:
+	[]

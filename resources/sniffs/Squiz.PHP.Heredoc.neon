@@ -1,0 +1,9 @@
+code: "Squiz.PHP.Heredoc"
+standard: "Squiz"
+category: "PHP"
+name: "Heredoc"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\PHP\\HeredocSniff"
+description: "Bans the use of heredocs and nowdocs."
+
+examples:
+	[]

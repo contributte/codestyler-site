@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.PHP.UselessSemicolon"
+standard: "SlevomatCodingStandard"
+category: "PHP"
+name: "UselessSemicolon"
+class: "SlevomatCodingStandard\\Sniffs\\PHP\\UselessSemicolonSniff"
+description: ""
+
+examples:
+	[]

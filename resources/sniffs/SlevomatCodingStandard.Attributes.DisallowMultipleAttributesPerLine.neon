@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Attributes.DisallowMultipleAttributesPerLine"
+standard: "SlevomatCodingStandard"
+category: "Attributes"
+name: "DisallowMultipleAttributesPerLine"
+class: "SlevomatCodingStandard\\Sniffs\\Attributes\\DisallowMultipleAttributesPerLineSniff"
+description: ""
+
+examples:
+	[]

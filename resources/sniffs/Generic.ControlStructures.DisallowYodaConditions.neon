@@ -1,0 +1,9 @@
+code: "Generic.ControlStructures.DisallowYodaConditions"
+standard: "Generic"
+category: "ControlStructures"
+name: "DisallowYodaConditions"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\ControlStructures\\DisallowYodaConditionsSniff"
+description: "Ban the use of Yoda conditions."
+
+examples:
+	[]

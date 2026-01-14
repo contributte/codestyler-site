@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.RequireYodaComparison"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "RequireYodaComparison"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\RequireYodaComparisonSniff"
+description: "Bigger value must be on the right side:"
+
+properties:
+
+examples:
+	[]

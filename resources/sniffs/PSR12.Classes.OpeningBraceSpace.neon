@@ -1,0 +1,9 @@
+code: "PSR12.Classes.OpeningBraceSpace"
+standard: "PSR12"
+category: "Classes"
+name: "OpeningBraceSpace"
+class: "PHP_CodeSniffer\\Standards\\PSR12\\Sniffs\\Classes\\OpeningBraceSpaceSniff"
+description: "Verifies that opening braces are not followed by blank lines."
+
+examples:
+	[]

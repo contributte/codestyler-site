@@ -1,0 +1,9 @@
+code: "Generic.PHP.LowerCaseKeyword"
+standard: "Generic"
+category: "PHP"
+name: "LowerCaseKeyword"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\LowerCaseKeywordSniff"
+description: "Checks that all PHP keywords are lowercase."
+
+examples:
+	[]

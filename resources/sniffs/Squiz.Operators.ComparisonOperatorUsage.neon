@@ -1,0 +1,9 @@
+code: "Squiz.Operators.ComparisonOperatorUsage"
+standard: "Squiz"
+category: "Operators"
+name: "ComparisonOperatorUsage"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Operators\\ComparisonOperatorUsageSniff"
+description: "A Sniff to enforce the use of IDENTICAL type operators rather than EQUAL operators."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "PEAR.Commenting.InlineComment"
+standard: "PEAR"
+category: "Commenting"
+name: "InlineComment"
+class: "PHP_CodeSniffer\\Standards\\PEAR\\Sniffs\\Commenting\\InlineCommentSniff"
+description: "Checks that no Perl-style comments are used."
+
+examples:
+	[]

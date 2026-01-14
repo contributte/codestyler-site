@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.AssignmentInCondition"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "AssignmentInCondition"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\AssignmentInConditionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

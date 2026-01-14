@@ -1,0 +1,9 @@
+code: "Squiz.Operators.ValidLogicalOperators"
+standard: "Squiz"
+category: "Operators"
+name: "ValidLogicalOperators"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Operators\\ValidLogicalOperatorsSniff"
+description: "Ensures logical operators 'and' and 'or' are not used."
+
+examples:
+	[]

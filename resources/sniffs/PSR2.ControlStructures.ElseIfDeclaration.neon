@@ -1,0 +1,9 @@
+code: "PSR2.ControlStructures.ElseIfDeclaration"
+standard: "PSR2"
+category: "ControlStructures"
+name: "ElseIfDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\ControlStructures\\ElseIfDeclarationSniff"
+description: "Verifies that there are no else if statements (elseif should be used instead)."
+
+examples:
+	[]

@@ -1,0 +1,11 @@
+code: "Generic.Functions.OpeningFunctionBraceKernighanRitchie"
+standard: "Generic"
+category: "Functions"
+name: "OpeningFunctionBraceKernighanRitchie"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\Functions\\OpeningFunctionBraceKernighanRitchieSniff"
+description: "Checks that the opening brace of a function is on the same line as the function declaration."
+
+properties:
+
+examples:
+	[]

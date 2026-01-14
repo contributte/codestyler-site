@@ -1,0 +1,9 @@
+code: "Squiz.Strings.DoubleQuoteUsage"
+standard: "Squiz"
+category: "Strings"
+name: "DoubleQuoteUsage"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Strings\\DoubleQuoteUsageSniff"
+description: "Makes sure that any use of double quotes strings are warranted."
+
+examples:
+	[]

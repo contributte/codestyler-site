@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.FunctionOpeningBraceSpace"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "FunctionOpeningBraceSpace"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\FunctionOpeningBraceSpaceSniff"
+description: "Checks that there is no empty line after the opening brace of a function."
+
+examples:
+	[]

@@ -1,0 +1,9 @@
+code: "Squiz.WhiteSpace.CastSpacing"
+standard: "Squiz"
+category: "WhiteSpace"
+name: "CastSpacing"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\WhiteSpace\\CastSpacingSniff"
+description: "Ensure cast statements don't contain whitespace."
+
+examples:
+	[]

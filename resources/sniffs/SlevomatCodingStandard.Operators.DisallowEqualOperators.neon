@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Operators.DisallowEqualOperators"
+standard: "SlevomatCodingStandard"
+category: "Operators"
+name: "DisallowEqualOperators"
+class: "SlevomatCodingStandard\\Sniffs\\Operators\\DisallowEqualOperatorsSniff"
+description: ""
+
+examples:
+	[]

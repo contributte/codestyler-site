@@ -1,0 +1,11 @@
+code: "PSR2.ControlStructures.SwitchDeclaration"
+standard: "PSR2"
+category: "ControlStructures"
+name: "SwitchDeclaration"
+class: "PHP_CodeSniffer\\Standards\\PSR2\\Sniffs\\ControlStructures\\SwitchDeclarationSniff"
+description: "Ensures all switch statements are defined correctly."
+
+properties:
+
+examples:
+	[]

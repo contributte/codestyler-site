@@ -1,0 +1,11 @@
+code: "Generic.WhiteSpace.ScopeIndent"
+standard: "Generic"
+category: "WhiteSpace"
+name: "ScopeIndent"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\WhiteSpace\\ScopeIndentSniff"
+description: "Checks that control structures are defined and indented correctly."
+
+properties:
+
+examples:
+	[]

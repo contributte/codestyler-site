@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.SuperfluousTraitNaming"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "SuperfluousTraitNaming"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\SuperfluousTraitNamingSniff"
+description: ""
+
+examples:
+	[]

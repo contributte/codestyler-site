@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.DisallowLateStaticBindingForConstants"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "DisallowLateStaticBindingForConstants"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\DisallowLateStaticBindingForConstantsSniff"
+description: ""
+
+examples:
+	[]

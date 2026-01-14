@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.UselessLateStaticBinding"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "UselessLateStaticBinding"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\UselessLateStaticBindingSniff"
+description: ""
+
+examples:
+	[]

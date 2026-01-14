@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.ControlStructures.DisallowShortTernaryOperator"
+standard: "SlevomatCodingStandard"
+category: "ControlStructures"
+name: "DisallowShortTernaryOperator"
+class: "SlevomatCodingStandard\\Sniffs\\ControlStructures\\DisallowShortTernaryOperatorSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

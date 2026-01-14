@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Functions.RequireArrowFunction"
+standard: "SlevomatCodingStandard"
+category: "Functions"
+name: "RequireArrowFunction"
+class: "SlevomatCodingStandard\\Sniffs\\Functions\\RequireArrowFunctionSniff"
+description: ""
+
+properties:
+
+examples:
+	[]

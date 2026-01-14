@@ -1,0 +1,9 @@
+code: "Squiz.Formatting.OperatorBracket"
+standard: "Squiz"
+category: "Formatting"
+name: "OperatorBracket"
+class: "PHP_CodeSniffer\\Standards\\Squiz\\Sniffs\\Formatting\\OperatorBracketSniff"
+description: "Tests that all arithmetic operations are bracketed."
+
+examples:
+	[]

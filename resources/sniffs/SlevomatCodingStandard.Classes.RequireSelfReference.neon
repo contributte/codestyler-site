@@ -1,0 +1,9 @@
+code: "SlevomatCodingStandard.Classes.RequireSelfReference"
+standard: "SlevomatCodingStandard"
+category: "Classes"
+name: "RequireSelfReference"
+class: "SlevomatCodingStandard\\Sniffs\\Classes\\RequireSelfReferenceSniff"
+description: ""
+
+examples:
+	[]

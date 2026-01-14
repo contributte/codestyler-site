@@ -1,0 +1,11 @@
+code: "Generic.PHP.NoSilencedErrors"
+standard: "Generic"
+category: "PHP"
+name: "NoSilencedErrors"
+class: "PHP_CodeSniffer\\Standards\\Generic\\Sniffs\\PHP\\NoSilencedErrorsSniff"
+description: "Throws an error or warning when any code prefixed with an asperand is encountered."
+
+properties:
+
+examples:
+	[]

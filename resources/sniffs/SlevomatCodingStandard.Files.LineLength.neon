@@ -1,0 +1,11 @@
+code: "SlevomatCodingStandard.Files.LineLength"
+standard: "SlevomatCodingStandard"
+category: "Files"
+name: "LineLength"
+class: "SlevomatCodingStandard\\Sniffs\\Files\\LineLengthSniff"
+description: "The limit that the length of a line must not exceed."
+
+properties:
+
+examples:
+	[]
