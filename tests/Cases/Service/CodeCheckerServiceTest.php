@@ -2,6 +2,8 @@
 
 namespace Tests\Cases\Service;
 
+require __DIR__ . '/../../bootstrap.php';
+
 use App\Service\CodeCheckerService;
 use PHPUnit\Framework\TestCase;
 

@@ -2,6 +2,8 @@
 
 namespace Tests\Cases\Service;
 
+require __DIR__ . '/../../bootstrap.php';
+
 use App\Service\RulesetGeneratorService;
 use PHPUnit\Framework\TestCase;
 

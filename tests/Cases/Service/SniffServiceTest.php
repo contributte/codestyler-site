@@ -2,6 +2,8 @@
 
 namespace Tests\Cases\Service;
 
+require __DIR__ . '/../../bootstrap.php';
+
 use App\Service\SniffService;
 use PHPUnit\Framework\TestCase;
 
