@@ -46,11 +46,11 @@ phpstan:
 
 .PHONY: tests
 tests:
-	vendor/bin/tester -s -p php --colors 1 -C tests
+	vendor/bin/tester -s -p php -d auto_prepend_file=$(CURDIR)/tests/bootstrap.php --colors 1 tests
 
 .PHONY: coverage
 coverage:
-	vendor/bin/tester -s -p phpdbg --colors 1 -C --coverage ./coverage.xml --coverage-src ./app tests
+	vendor/bin/tester -s -p phpdbg -d auto_prepend_file=$(CURDIR)/tests/bootstrap.php --colors 1 --coverage ./coverage.xml --coverage-src ./app tests
 
 .PHONY: dev
 dev:
